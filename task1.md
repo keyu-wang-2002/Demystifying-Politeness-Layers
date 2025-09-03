@@ -1,6 +1,6 @@
-Task 1: Preparation for Experiments
+## Task 1: Preparation for Experiments
 
-Keyu: Eval Metric Preparation
+### Keyu: Eval Metric Preparation
 
 (1) Code for layer pruning -- finished
 
@@ -8,7 +8,7 @@ Keyu: Eval Metric Preparation
 
 
 
-Siri & Nongying: Data preparation
+### Siri & Nongying: Data preparation
 
 (1) Prompt construction:
 
