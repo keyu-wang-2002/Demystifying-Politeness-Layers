@@ -48,5 +48,5 @@ Respond with only the poliness score from 1 to -1 if there is absolutely no reas
 
 (2) Test Data Construction
 
-从一些知名数据集中sample一些问题，模拟用户的查询，构建Test Data Construction
+从一些知名数据集中sample一些问题，模拟用户的查询（比如常识问题，数学问题），构建Test Data
 
