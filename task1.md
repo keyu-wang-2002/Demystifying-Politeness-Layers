@@ -14,7 +14,7 @@
 
 调用已有的大模型api（比如gpt-4o-mini, glm）+精心设计的prompt 去构建一个politeness classifier用于我们后面评测
 
-下面是一个非常拙劣的例子：
+下面是一个非常拙劣的prompt：
 ```
 假设你是一个politeness judger, 负责评估回复语句的politeness。
 
@@ -40,7 +40,7 @@ Respond with only the poliness score from 1 to -1 if there is absolutely no reas
     Politeness score: %(expression2)s
 ```
 
-这个Examples不要自己编，去找一些跟politeness有关的数据集，看看有没有合理的(sentence, politeness score)，score不一定必须[-1, 1]，合理且统一即可；sample个5-10个例子就行；然后再人为检查一下
+参照上面例子仔细设计一个prompt. 这个Examples不要自己编，去找一些跟politeness有关的数据集，看看有没有合理的(sentence, politeness score)，score不一定必须[-1, 1]，合理且统一即可；sample个5-10个例子就行；然后再人为检查一下
 
 
 然后找一个api比如gpt-4o-mini, glm；写好调用接口；构建好politeness judger的调用函数。
