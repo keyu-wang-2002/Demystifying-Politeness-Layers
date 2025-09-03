@@ -1,4 +1,4 @@
-## Task 1: Preparation for Experiments   3 Sep. - 7 Sep.
+## Task 1: Preparation for Experiments |  3 Sep. - 7 Sep.
 
 ### Keyu: Eval Metric Preparation
 
