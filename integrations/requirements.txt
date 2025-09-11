@@ -1,0 +1,4 @@
+fastapi
+pydantic
+uvicorn
+git+https://github.com/keyu-wang-2002/PolitenessLayers.git#egg=politenesslayers
