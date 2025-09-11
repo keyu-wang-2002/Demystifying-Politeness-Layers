@@ -8,7 +8,7 @@ from openai import OpenAI
 
 MODEL = "gpt-4o-mini"
 # 初始化 client（填你的 API Key）
-client = OpenAI(api_key="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", max_retries=0)
+client = OpenAI(api_key="", max_retries=0)
 
 # ---- cell separator ----
 
