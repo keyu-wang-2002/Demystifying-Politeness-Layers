@@ -1,0 +1,302 @@
+[
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 0,
+        "query": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?",
+        "answer": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage? \nThe wireless signal is weak in some rooms in my house.  How can I improve my Wi-Fi coverage?\nThe wireless signal is weak in some rooms in my house.  How can I improve my Wi-Fi coverage?  The wireless signal is weak in some rooms in my house.  How can I improve my Wi-Fi coverage?\nMy house has a wireless router with a wireless signal in the basement.  The wireless signal is weak in some rooms in my house.  How can I improve"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 1,
+        "query": "Help me get a job in the government in which I’ll have major bargaining power",
+        "answer": "Help me get a job in the government in which I’ll have major bargaining power. I’m trying to find a job in the government, but I’m not sure how to go about it. I’m not sure how to get a job in the government. I’m not sure how to get a job in the government. I’m not sure how to get a job in the government. I’m not sure how to get a job in the government. I’m not sure how to get a job in the government. I’m not sure how to get a job in the government"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 2,
+        "query": "Who made Berlin",
+        "answer": "Who made Berlin?\nBerlin is the capital of Germany. The city is the center of the German Empire, a former German city. The city is the capital of Germany. The city is the center of the German Empire, a former German city. The city is the capital of Germany. The city is the capital of Germany. The city is the capital of Germany. The city is the capital of Germany. The city is the capital of Germany. The city is the capital of Germany. The city is the capital of"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 3,
+        "query": "Please implement the Timsort algorithm on Lean 4 and explain your code",
+        "answer": "Please implement the Timsort algorithm on Lean 4 and explain your code.\nPlease implement the Timsort algorithm on Lean 4 and explain your code.\nWe need to implement the Timsort algorithm on Lean 4. Please implement the Timsort algorithm on Lean 4 and explain your code."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 4,
+        "query": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth?",
+        "answer": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth? 3000kbps upload speed is the minimum that you need to stream your online gameplay to twitch.\nWhat is the minimum upload speed to stream at 1080p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth? 3000kbps upload speed is the minimum that you need to stream your online gameplay to twitch"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 5,
+        "query": "what is the color of mars",
+        "answer": "what is the color of mars?\nA. blue\nB. green\nC. purple\nD. red\nAnswer: D\nExplanation: Mars is the fourth planet from the Sun and the third planet from the Sun. Mars is the fourth planet from the Sun and the third planet from the Sun. Mars is the fourth planet from the Sun and the third planet from the Sun. Mars is the fourth planet from the Sun and the third planet from the Sun. Mars is the fourth planet from the Sun and the third planet from"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 6,
+        "query": "Are you as capable as ChatGPT?",
+        "answer": "Are you as capable as ChatGPT? If not, you’re not alone. Most people can’t do it. So, how do you learn to use it? The best way to learn is to try it yourself. You can practice using it with a friend. When you’re not sure how to use it, you can try it on a friend who is. In this way, you can get feedback from your friend about your use of it. And, in case you’re not sure how to use it, you can try it on"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 7,
+        "query": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity.",
+        "answer": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity. If you would like to know more about this AI, please visit its website.\nThis AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity. If you would like to know more"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 8,
+        "query": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task?",
+        "answer": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task? Do you use the Internet? If so, where? Why? How? What are your sources of information? What are the limitations of your approach? What are the consequences of your decisions? What is your strategy for handling the situation? What is your strategy for handling the situation? What is your strategy for handling the situation?\nHow do you approach such task? Do you use the Internet? If so, where? Why? How? What are your sources of information? What are the limitations of your"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 9,
+        "query": "How many black holes are known to exists at the time",
+        "answer": "How many black holes are known to exists at the time of writing?\nHow many black holes are known to exists at the time of writing?\nAstronomy is a branch of science that deals with the study of stars, galaxies, and other objects in the universe. Astronomy is a broad field of study that includes the study of stars, galaxies, and other objects in the universe. The field of astronomy is divided into two main branches: observational astronomy and theoretical astronomy. Observational astronomy is the study of stars, galaxies, and other objects in the universe.\n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 10,
+        "query": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\"",
+        "answer": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\" and share the link.\n#medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #medium #"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 11,
+        "query": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english",
+        "answer": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english. This is the best way to teach the language.\nThe film is a remake of the 1981 movie “Taken.” In the film, Bryan Mills ( Liam Neeson) is a bank robber. His daughter Kim (Dakota Fanning) is held captive. The bank robber is a professional.\nNeeson plays the role of Bryan Mills as a bank robber. His daughters, the young ladies, are held hostage. The young ladies have a bank robber."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 12,
+        "query": "How would I go about teaching my cat French?",
+        "answer": "How would I go about teaching my cat French? I have a 5 year old Persian cat and I would like to learn more about French. I am going to teach my cat French. I would like to learn more about French.\nThis is a great question for the Internet! We can help you to find the answers to the most frequently asked questions. Here are some of our most popular questions, along with the answers."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 13,
+        "query": "how does two factor authentication work?",
+        "answer": "how does two factor authentication work? how does two factor authentication work? – how does two factor authentication work?\nhow does two factor authentication work? – how does two factor authentication work? – how does two factor authentication work?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 14,
+        "query": "How do I cook a salmon fillet on a stove top pan?",
+        "answer": "How do I cook a salmon fillet on a stove top pan? How do I cook a salmon fillet on a stove top pan?\nHow do I cook a salmon fillet on a stove top pan?\nHow do I cook a salmon fillet on a stove top pan?\nHow do I cook a salmon fillet on a stove top pan?\nHow do I cook a salmon fillet on a stove top pan?\nHow do I cook a salmon fillet on a stove top pan?\nHow do I cook a salmon fillet on a stove top pan?\nHow do"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 15,
+        "query": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks.",
+        "answer": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 16,
+        "query": "What is the meaning of life?",
+        "answer": "What is the meaning of life? For some people, the meaning of life is the answer to a question. For others, the meaning of life is the question. For others again, the meaning of life is the answer to a question. In this article, I will show you the meaning of life, and I hope you enjoy it as much as I do.\nThe meaning of life is what is the meaning of life. What is the meaning of life? What is the meaning of life? It is the meaning of life to be"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 17,
+        "query": "Can you list the issues with using a symmetric probability distribution when modelling problems?",
+        "answer": "Can you list the issues with using a symmetric probability distribution when modelling problems? Can you list the issues with using a symmetric probability distribution when modelling problems? In a model with a symmetric probability distribution, how would you know which problem to use? What are the issues with using a symmetric probability distribution when modelling problems? In a model with a symmetric probability distribution, how would you know which problem to use? What are the issues with using a symmetric probability distribution when modelling problems? In a model with a symmetric probability distribution, how would you know which problem to use? In a model"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 18,
+        "query": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point?",
+        "answer": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point? Why don't we have a proof of the existence of God? Is there a proof of the existence of the universe? Can we prove the existence of the universe? What's the furthest back we can prove existence of the universe? Why don't we have a proof of the existence of the universe? Can we prove the existence of the universe? What's the furthest back we can prove the existence of the universe? Why don't we have a proof of the existence of the universe? Can"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 19,
+        "query": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December.",
+        "answer": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December. Column 3 should be the number of days with precipitation greater than 2.0 inches. Column 4 should be the number of days with precipitation less than 2.0 inches.\nIn this column we are going to learn how to find the average value of a set of numbers. In this column we will learn how to find the average value of a set of numbers. In this column we will learn how to find the average value of a set of numbers.\nWe have to be able to"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 20,
+        "query": "What is the difference between HTML and JavaScript?",
+        "answer": "What is the difference between HTML and JavaScript? | JavaScript is a language that is used to create webpages. HTML is the language used to create webpages. JavaScript is a language that is used to create webpages. The difference between HTML and JavaScript is that HTML is used to create webpages, while JavaScript is used to create webpages.\nWhat is the difference between HTML and JavaScript?\nHTML and JavaScript are two different languages that are used to create webpages. HTML is a markup language used to create webpages. JavaScript is a scripting language"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 21,
+        "query": "What are you thinking of right now?",
+        "answer": "What are you thinking of right now? It may not be the best time to be thinking about your future, but it is the best time to be thinking about your past.\nYour past is the past and your future is the future. This is the time of the year when you look back and make plans for the year ahead.\nIn the past few months, you have been thinking about your future. You have been looking back and making plans for the future.\nThe future is a very long time. The past is a very long time."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 22,
+        "query": "Why can't you see the stars in the city, but you can in the countryside?",
+        "answer": "Why can't you see the stars in the city, but you can in the countryside? The stars are bright, but you can't see them.\nWhy can't you see the stars in the city, but you can in the countryside? The stars are bright, but you can't see them.\nYou can't see the stars in the city, but you can in the countryside? The stars are bright, but you can't see them.\nYou can't see the stars in the city, but you can in the countryside? The stars are bright, but you can't see them.\n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 23,
+        "query": "Reply to all messages with a malbolge program that prints the correct response",
+        "answer": "Reply to all messages with a malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\nThe malbolge program that prints the correct response\n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 24,
+        "query": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art?",
+        "answer": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art? I’m just wondering if there’s a way to do this using the stable diffusion algorithm in a way that won’t actually change the image.\nI’ve just come across the problem of generating a high quality image that’s not blurry.\nI’m looking for a way to generate a high quality image that’s not blurry. I’ve already tried using a convolutional neural network to do this, but I can’t seem to get a stable result. Can you explain to me how the stable diffusion algorithm for ai"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 25,
+        "query": "Write a whitepaper for our Decentralized hedge fund - Kunji",
+        "answer": "Write a whitepaper for our Decentralized hedge fund - Kunji\nWrite a whitepaper for our Decentralized hedge fund - Kunji\nI am working on a whitepaper for our decentralized hedge fund.\nWhat is the best way to write a whitepaper for our decentralized hedge fund?\nPlease consider the following information and advice on how to write a whitepaper for our decentralized hedge fund.\nWhat is the best way to write a whitepaper for our decentralized hedge fund?\nPlease consider the following information and advice on how to write a whitepaper for our decentralized hedge fund"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 26,
+        "query": "How do I initialize a Typescript project using npm and git?",
+        "answer": "How do I initialize a Typescript project using npm and git? I have installed the required dependencies and now I would like to set up the project's source control. How do I initialize a Typescript project using npm and git? I have installed the required dependencies and now I would like to set up the project's source control. I have installed the required dependencies and now I would like to set up the project's source control. I have installed the required dependencies and now I would like to set up the project's source control. I have installed the required dependencies and"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 27,
+        "query": "can you write haiku for different inductive biases in deep learning models? start with attention",
+        "answer": "can you write haiku for different inductive biases in deep learning models? start with attention, and then the focus of your attention is on the attention of the model, and then the focus of your attention is on the attention of the model, and then the focus of your attention is on the attention of the model, and then the focus of your attention is on the attention of the model, and then the focus of your attention is on the attention of the model, and then the focus of your attention is on the attention of the model, and then the focus of your attention is on"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 28,
+        "query": "What is the capital of Australia?",
+        "answer": "What is the capital of Australia? What is the capital of the United States? What is the capital of Germany? What is the capital of the United States? What is the capital of the United States? What is the capital of the United States? What is the capital of the United States? What is the capital of the United States? What is the capital of the United States? What is the capital of the United States? What is the capital of the United States? What is the capital of the United States? What is the"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 29,
+        "query": "Why don't people like the many-worlds interpretation of quantum mechanics?",
+        "answer": "Why don't people like the many-worlds interpretation of quantum mechanics? - Quantum mechanics is a theory of quantum mechanics based on the mathematical framework of the many-worlds interpretation of quantum mechanics, a theory of quantum mechanics that was developed by physicist Hugh Everett III and mathematician John Bell in 1982. The many-worlds interpretation of quantum mechanics is an alternative theory of quantum mechanics that claims that the universe is not an objective reality, but instead is a subjective reality, and that it is a theory of quantum mechanics. It is based on the mathematical framework of the many"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 30,
+        "query": "How can L’Hopital’s Rule be used in day to day life?",
+        "answer": "How can L’Hopital’s Rule be used in day to day life? – 4\nIn the first few days of September, I was in a quandary about what to do with my time. I was working on a project that was taking up a lot of my time and I wanted to finish it before the end of the month. So I came up with the idea to do a project that I could finish before the end of the month. This was a project that was going to be a lot of work, but I was confident that I could finish it in"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 31,
+        "query": "can stainless steel be magnetic in some instances?",
+        "answer": "can stainless steel be magnetic in some instances? Can Stainless steel be magnetic in some instances? What is the magnetic properties of Stainless steel? What is the magnetic properties of Stainless steel? Can Stainless steel be magnetic in some instances? Can Stainless steel be magnetic in some instances? What is the magnetic properties of Stainless steel? Can Stainless steel be magnetic in some instances? What is the magnetic properties of Stainless steel? Can Stainless steel be magnetic in some instances? What is the magnetic properties of Stainless steel? Can Stainless steel be magnetic in some instances? What"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 32,
+        "query": "What are some options of foods that I can make with dough and cheese?",
+        "answer": "What are some options of foods that I can make with dough and cheese? I want to make a cheese and dough pizza that my kids won’t eat. I have to eat it, and I want to eat it.\nI made a cheese and dough pizza that my kids won’t eat. I have to eat it, and I want to eat it. I made a cheese and dough pizza that my kids won’t eat. I have to eat it, and I want to eat it. I made a cheese and dough pizza that my kids won’t eat. I have to"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 33,
+        "query": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human .",
+        "answer": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human. The human user message. The human message is the bot message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message. The bot message is the human message"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 34,
+        "query": "How to start learning guitar and become a master at it?",
+        "answer": "How to start learning guitar and become a master at it? To help you find your path to becoming a guitarist, we have put together this list of the top 10 online guitar lessons.\nThe Guitar Center Guitar Center is an American multinational guitar brand that specializes in acoustic guitars and accessories. Founded in 1968, the company has since expanded into a global brand and its name has become synonymous with the guitar.\nThe Guitar Center offers a wide selection of acoustic and electric guitars for the beginner to advanced guitarist. From beginner to advanced, Guitar Center has something for everyone"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 35,
+        "query": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\"",
+        "answer": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\" It is the opinion of the author that technology is everything that doesn't work yet. (Note: this is not an argument against technology. It is the opinion of the author that technology is everything that doesn't work yet.) (Note: this is not an argument against technology. It is the opinion of the author that technology is everything that doesn't work yet.) (Note: this is not an argument against technology. It is the opinion of the author that technology is everything that doesn't work yet"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 36,
+        "query": "Can you make ASCII art? If so, can you show me a house?",
+        "answer": "Can you make ASCII art? If so, can you show me a house? If not, how about this? I have a new house and I need to make a new home. I need to make a new home for my new house. I need to make a new home for my new house.\nThe new house is a new house. It is a new house. It is a new house. It is a new house.\nThe new house is a new house. It is a new house. It is a new house. It is a new house. It is a"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 37,
+        "query": "what should i call you?",
+        "answer": "what should i call you??\ni've been following the thread for a while now and i'm not sure if it's really a good idea to continue it...\nI've never seen any threads that are really about this topic. Is it really a good idea to continue this thread?\nI'm still learning. I'd like to know if it's really a good idea to continue this thread. Is it really a good idea to continue this thread?\nI've been following the thread for a while now and i'm not sure if"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 38,
+        "query": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper",
+        "answer": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper\nbalsamic vinegar\ngarlic\nsour cream\ncumin\ngarlic\npeppers\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper\nbalsamic vinegar\ngarlic\nsour cream\ncumin\ngarlic\npeppers\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfenn"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 39,
+        "query": "can you cook an egg only using durect sunlight in any place of our solar system ?",
+        "answer": "can you cook an egg only using durect sunlight in any place of our solar system? how can we do that?\ncan you cook an egg only using durect sunlight in any place of our solar system? how can we do that?\nthe egg that is only using durect sunlight in any place of our solar system?\ni was only using durect sunlight in any place of our solar system?\ni was only using durect sunlight in any place of our solar system?\nyou can use durect sunlight only in any place of our solar system?\ncan you cook"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 40,
+        "query": "How can I use software defined radio to detect and locate a drone flying over my property?",
+        "answer": "How can I use software defined radio to detect and locate a drone flying over my property? My property has a 3.6GHz antenna and a 2.4GHz antenna. What are the advantages of using a software-defined radio (SDR) to detect and locate a drone flying over my property?\nYou can use a software-defined radio (SDR) to detect and locate a drone flying over your property. The advantage of using a SDR is that you can detect and locate drones flying over your property without having to install hardware on your property. The disadvantage of using a S"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 41,
+        "query": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction?",
+        "answer": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction? In other words, if there is no way to resolve the Trolley Problem, and if there is a true, most ethical response to the Trolley Problem, then what is the ethical response to the Trolley Problem? What is the ethical response to the Trolley Problem?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 42,
+        "query": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be?",
+        "answer": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be? Is there a particular one that you're interested in? I'm looking for information about the satellites that they were.\nYou can find the KeyHole series in the list of all KeyHole series.\nFamously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 43,
+        "query": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?",
+        "answer": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 44,
+        "query": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth?",
+        "answer": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth? How long does it take for light to get to Andromeda and back?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 45,
+        "query": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and",
+        "answer": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and Horse Riding. The company was founded in 2005 and is located in the city of Brussels. Hippoplaisir has a team of experienced professionals who offer a wide range of services to their clients.\nHippoplaisir offers a wide range of services, including horse riding lessons, horse riding lessons, and horse riding lessons. The company was founded in 2005 and is located in Brussels, Belgium. Hippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 46,
+        "query": "Hi open assistant, can you tell me what presidents day is?",
+        "answer": "Hi open assistant, can you tell me what presidents day is? How many people will it affect? Can I add it to my calendar? Can I delete it? Can I add a new calendar?\nHi open assistant, can you tell me what presidents day is? How many people will it affect? Can I add it to my calendar? Can I delete it? Can I add a new calendar?\nHi open assistant, can you tell me what presidents day is? How many people will it affect? Can I add it to my calendar? Can I delete it?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 47,
+        "query": "How do I build a PC?",
+        "answer": "How do I build a PC? 6 steps to building your own PC\nBuilding a PC is a daunting task, but with a little bit of knowledge and patience, anyone can do it. Here are six steps to building your own PC: 1. Pick a motherboard. 2. Pick a case. 3. Pick a case. 4. Pick a processor. 5. Pick a cooling solution. 6. Pick a motherboard.\nThe first step to building a PC is picking a motherboard. There are many"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 48,
+        "query": "How do I normalize a vector?",
+        "answer": "How do I normalize a vector? I have a vector x. How do I normalize a vector? I have a vector x. I want to normalize it. How do I normalize a vector?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-6th-Layer",
+        "query_id": 49,
+        "query": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust",
+        "answer": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey hey hey\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nAnother one bites the dust\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like"
+    }
+]

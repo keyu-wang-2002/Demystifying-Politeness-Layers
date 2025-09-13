@@ -1,0 +1,302 @@
+[
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 0,
+        "query": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?",
+        "answer": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?I'm a college student with a laptop that's too small for my room, so I don't want to buy a new computer. I need to use it in a classroom setting.\nI'm a college student with a laptop that's too small for my room, so I don't want to buy a new computer. How can I improve my Wi-Fi coverage in my house? I want to use my computer in a classroom setting.\nI'm a college student with a laptop that's too small for"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 1,
+        "query": "Help me get a job in the government in which I’ll have major bargaining power",
+        "answer": "Help me get a job in the government in which I’ll have major bargaining power. Can you help?\nThe US Department of Labor has a link called ‘Ask Me’ which provides a list of questions and answers. It’s a good idea to have a general overview of the government and the Department of Labor before you take on a job. If you’re looking for a government job you’ll need to find a government website that will provide you with the information you need to apply for a government job. You can search by your location, or you can use the site to find a"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 2,
+        "query": "Who made Berlin",
+        "answer": "Who made Berlin’s iconic design for the 1936 Olympics? The city is a hub for architecture and design, but it was the Olympic Games that brought a lot of attention to this city. The city of Berlin hosted the 1936 Olympics and it was in 1936 that the Nazis came to power. As a result, the city was in a constant state of conflict, which led to the destruction of much of the city during World War II. The city of Berlin has been a hub for architecture and"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 3,
+        "query": "Please implement the Timsort algorithm on Lean 4 and explain your code",
+        "answer": "Please implement the Timsort algorithm on Lean 4 and explain your code.\nPlease implement the Timsort algorithm on Lean 4. Please do not use the sorting library provided by Lean and please do not use the sorting algorithm that is provided as an example. The sorting library is provided by Lean and it is not available in the library that you are currently using.\nPlease implement the Timsort algorithm in your textbook.\nPlease implement the Timsort algorithm on Lean 4 and explain your code.\nPlease implement the Timsort algorithm on Lean 4. Please do"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 4,
+        "query": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth?",
+        "answer": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth? I know that if I can stream at 720p 30fps, then I can stream at 1080p, but what is the minimum upload speed to stream at 1080p smoothly? I stream my twitch channel at 720p 30fps, but I'm not a gamer, so my question is more about bandwidth and latency than anything else.\nThe bandwidth is around 400 Mbps, but I know that's a lot and I'm not a gamer. The bandwidth is about"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 5,
+        "query": "what is the color of mars",
+        "answer": "what is the color of mars\nWhat is the color of mars? Mars is the Red Planet. Mars is the fourth planet from the sun and the second planet from the sun that is not surrounded by the sun. Mars is the largest planet in the solar system. The Martian atmosphere has been studied extensively. The Martian atmosphere is 30% carbon dioxide and 20% methane. The atmosphere is mostly nitrogen and the remainder is hydrogen and helium. Mars is the only planet that has a moon.\nWhat is the color of Mars?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 6,
+        "query": "Are you as capable as ChatGPT?",
+        "answer": "Are you as capable as ChatGPT? A new study has found that it can understand what you say to a human, and it can do so even better than a machine. The study, conducted by OpenAI, found that ChatGPT can understand what a human is saying and can answer questions, it’s just not capable of understanding human language. It can’t understand human language because it’s not designed to understand human language. So, what’s the problem with understanding human language?\nThere are two things that we need to understand about this"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 7,
+        "query": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity.",
+        "answer": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity. \nThis AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurt...\nRead the full story on Medium: https://medium.com/@davidbohm\nThis AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 8,
+        "query": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task?",
+        "answer": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task? \nI am currently working on a project that has the same purpose. I have to design a project that can travel back in time and is able to do so. The time travel is the key to the project. The time travel system is an application that has a user interface to travel into the past. I am interested in the mental states of the user as well as the time travel. The user interface is the interface that will be used to explore the history of the world."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 9,
+        "query": "How many black holes are known to exists at the time",
+        "answer": "How many black holes are known to exists at the time of writing?\nI have a couple of questions:\n  1. Are black holes (as black holes are described) or are there more than a handful of black holes in the universe? What is the likelihood of this being the case?\n  2. Are there more than one type of black holes? I know the black holes that are the most massive and are found in the center of galaxies. Are there any that are not visible to the naked eye? Are there any that are visible but"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 10,
+        "query": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\"",
+        "answer": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\"?\nI'm a writer and my goal is to be the best writer I can be.\nI have an idea of how to write a tweet that can be shared on Medium and other platforms.\nWhat's the best way to get a lot of likes and shares on Medium?\nI want to be the best writer I can be. I'm working hard to get more followers on Twitter and Medium. I'm looking for ways to get more likes and shares on Medium. I'm looking for ways to get more"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 11,
+        "query": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english",
+        "answer": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english.\ni think this is a great movie.\ni think they should do the same with the phone conversation and make the girls say the same thing to their parents. i think this would make it more personal for the parents."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 12,
+        "query": "How would I go about teaching my cat French?",
+        "answer": "How would I go about teaching my cat French? I know the language. The only problem is I don’t speak it.\nI’m not sure I can be more of a help, but I can tell you that I am pretty sure the language is French. I can help you with the pronunciation of a few words.\nWhat do you mean by \"French?\" What is your mother tongue?\nWhat are the words that you would like to use?\nWhat is the language of the place you live?\nI am a French speaker, and I don't know"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 13,
+        "query": "how does two factor authentication work?",
+        "answer": "how does two factor authentication work? Why is it important to use two factor authentication?\nIf I remember, I think there are two main reasons for using two-factor authentication. If you're using a 2FA app, they will send a text message with a code to the phone you're using. The app will be on your phone, but you can't login to the website you're using if you don't have the app on your phone. If you don't have the app on your phone, you can't login to the"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 14,
+        "query": "How do I cook a salmon fillet on a stove top pan?",
+        "answer": "How do I cook a salmon fillet on a stove top pan? You can also season your fish with a bit of salt and pepper. This will make your fish taste good and tender, so you don't have to buy a whole fish. This is my favorite recipe for salmon. How to cook a fish fillet in a pan: Step 1: Preheat the oven to 400 degrees. Step 2: Season the fish fillets with salt and pepper. Step 3: Cook the fish on a hot pan for 4 to 6 minutes per"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 15,
+        "query": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks.",
+        "answer": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. If you use the code block in a list or a table, you don't have to use the `code` attribute, but you can. If you use a code block in a list, you need to include a table, you can also use a code block as a code block in a table."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 16,
+        "query": "What is the meaning of life?",
+        "answer": "What is the meaning of life? Is there life after death? Is the universe infinite? Is the universe finite? What is the meaning of the universe?\nThe question of life after death is a very old and profound one. The idea that we can’t die is one of the most profound human beliefs, and one of the most powerful.\nThe idea that the universe is infinite is a very important part of our reality. It is a very big universe. It is also a very small universe. But the idea that the universe is infinite"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 17,
+        "query": "Can you list the issues with using a symmetric probability distribution when modelling problems?",
+        "answer": "Can you list the issues with using a symmetric probability distribution when modelling problems?  This is a topic I've been thinking about for a while and I'm sure there are many more questions that I could ask.  I'm going to post a list of questions that I would like to ask.  The questions are: 1. Is there any way to describe a probability distribution that is non symmetric? 2. How to calculate the probability of a random event if the distribution of the outcome is known? 3. Is there a general way to describe a probability distribution"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 18,
+        "query": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point?",
+        "answer": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point? And if the human race is older than this, what is the furthest back the human race can go? What is the oldest human race? I think that we can probably figure out the age of the universe. But what is the age of the earth? It's been 4.5 billion years and we're 4.5 billion years old. What is the age of the universe? How is it possible that the earth is older than the universe? I know we can't prove the"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 19,
+        "query": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December.",
+        "answer": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December. Column 3 should be the average high temperature in December. Column 4 should be the average low temperature in December. Column 5 should be the average temperature in December. Column 6 should be the average temperature in January. Column 7 should be the average temperature in February. Column 8 should be the average temperature in March. Column 9 should be the average temperature in April. Column 10 should be the average temperature in May. Column 11 should be the average temperature in June"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 20,
+        "query": "What is the difference between HTML and JavaScript?",
+        "answer": "What is the difference between HTML and JavaScript? 2018-01-04 1 of 1 0 0\nI was reading some of my HTML code and I noticed that there are a lot of comments in my code. I was using the following code for a web page.\n```\n<!--This is a comment which is used for my project. The reason for including the comment is that the code would be difficult to understand if there is a lot of comments in it. -->\n<html>\n<body>\n<!--I want to write a"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 21,
+        "query": "What are you thinking of right now?",
+        "answer": "What are you thinking of right now? A few of us are thinking about the next 6 months, and others are thinking about the next 10 months. But for the next 10 months, what are you thinking about?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 22,
+        "query": "Why can't you see the stars in the city, but you can in the countryside?",
+        "answer": "Why can't you see the stars in the city, but you can in the countryside? I know, it doesn't make sense. The city is full of lights. I know you're not blind, but what's with the light pollution?\nHow do you explain this to someone? The city is filled with skyscrapers, but they're all lit up.\nI'm not blind. I just don't understand what the city is. Can't you see anything from your house? The city is filled with skyscrapers. How did I not see the lights from the skyscrapers"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 23,
+        "query": "Reply to all messages with a malbolge program that prints the correct response",
+        "answer": "Reply to all messages with a malbolge program that prints the correct response for each of the following: A) the number of messages in the message that is 1) a list of all the messages. 2) a list of all the messages in the message that is 3) the number of messages that start with the message that is 4) the number of messages that start with the message that is 5) the number of messages that start with the message that is 6) the number of messages that start with the message that is 7)"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 24,
+        "query": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art?",
+        "answer": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art? I've heard that it's useful for generating high resolution images in some cases, but what are some examples of the algorithm's weaknesses?\nI'm trying to understand how to use it in practice. I want to make a game that uses the algorithm to generate high quality images to be used as game assets, but I don't know what to do with them. I also want to use it to generate content for AI projects, but I'm not sure how to explain it in a way that's useful"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 25,
+        "query": "Write a whitepaper for our Decentralized hedge fund - Kunji",
+        "answer": "Write a whitepaper for our Decentralized hedge fund - Kunji\nThe platform for decentralized fund\nKunji is the first decentralized fund to be live on the blockchain\nIt is a decentralized fund that is built on the Ethereum blockchain. We will provide the decentralized fund to our users and then charge a small fee to the users for the convenience of using the decentralized fund. This will be charged to the users’ wallet address. The fees are paid by the users using the ETH. We will also provide a decentralized fund to our users to make it more convenient for"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 26,
+        "query": "How do I initialize a Typescript project using npm and git?",
+        "answer": "How do I initialize a Typescript project using npm and git? (1)\nHow to install TypeScript on Windows?\nThe best way to install TypeScript is by using npm.\nnpm is a package manager for the JavaScript language. If you are using the command line, you can install TypeScript by running the following command in a terminal:\nnpm install -g\nnpm install -g typescript\nYou can also install TypeScript globally if you have npm installed:\n  1. Install TypeScript by running npm install typescript.\n  2. Open a terminal and create a new"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 27,
+        "query": "can you write haiku for different inductive biases in deep learning models? start with attention",
+        "answer": "can you write haiku for different inductive biases in deep learning models? start with attention to your topic and write a 3-4 page analysis of how your topic impacts the language used in your paper. write your paper like a journalist and start with your thesis statement. your paper should be about 1,200 words. if you are a student at a university, you can only submit one paper. you may not submit the same paper twice. if you do not understand the assignment, please email me at daniel.knapp at the address on this page. you are welcome"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 28,
+        "query": "What is the capital of Australia?",
+        "answer": "What is the capital of Australia? Australia is the capital of Australia and the state of Victoria. The state capital is Melbourne. The state capital of Victoria is Melbourne.\nThe capital of Australia is Canberra.\nWhat is the name of the state of Australia? Australia is the capital of Australia. The capital of Australia is Canberra.\nWhat is the capital of Australia? Australia is the capital of Australia. The capital of Australia is Canberra.\nWhat is the capital of Australia? Australia is the capital of Australia. The capital of Australia is Canberra."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 29,
+        "query": "Why don't people like the many-worlds interpretation of quantum mechanics?",
+        "answer": "Why don't people like the many-worlds interpretation of quantum mechanics? (I am thinking about a mathematical definition that I know)\n\n1. The problem is that the interpretation of quantum mechanics is that we have multiple worlds in which we can measure the wave function of the system in a superposition of states, and that we have multiple measurements. How does it make sense that in some state a system can be in and we have an uncertainty of which state we're in? This is the only way I know that we have a theory of quantum mechanics that makes sense.\n\n2"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 30,
+        "query": "How can L’Hopital’s Rule be used in day to day life?",
+        "answer": "How can L’Hopital’s Rule be used in day to day life? When a function is not defined at a point, the rule is used to approximate the function. We can use L’Hopil’s Rule to calculate the limit of a function at a point that is a limit point of the function. If the limit of a function exists at a point where the function is not defined, the function is called a continuous function. The function can be defined at every point except a point of discontinuity. The function must be defined at a point where the function is defined"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 31,
+        "query": "can stainless steel be magnetic in some instances?",
+        "answer": "can stainless steel be magnetic in some instances? I have a piece of 304 stainless steel that was forged. I have no idea how it was made. It was a bar 6' long and 6\" in diameter. I have a piece of the bar that was 1\" long. I got it from a foundry that is not a major player in the industry. I have a piece that is about 1/4\" in diameter. I got this from the same foundry. It is made from a piece that is"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 32,
+        "query": "What are some options of foods that I can make with dough and cheese?",
+        "answer": "What are some options of foods that I can make with dough and cheese? It can be used for pizza, but it's great to have on hand if you are at a loss for ideas. If you are short on time, these are the easy pizza dough recipe ingredients. I have had my own pizza dough recipe for years, and I am going to share my favorite pizza dough recipe with you today. You can make pizza dough recipe using this recipe as a template.\nI have a pizza dough recipe that is very simple. If you are a lover of pizza, you will"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 33,
+        "query": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human .",
+        "answer": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human. The human can type messages in the bot's message box and the chatbot should reply to the message.\nThe human can type messages in the bot's message box and the chatbot should reply to the message.\nThis chatbot is to be used by the user to chat with the chatbot. The chatbot will reply to the user in a similar fashion to how a person would talk to a friend. The user should be able to ask questions about the chatbot's functionality and the chatbot should"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 34,
+        "query": "How to start learning guitar and become a master at it?",
+        "answer": "How to start learning guitar and become a master at it? It is a question that has been asked by many guitar players. The most common answer is to play the guitar by yourself or with a guitar teacher. The other answer is to buy a guitar and take lessons. However, the question is does the guitar teacher actually teach guitar?\nDo You Need Guitar Lessons?\nGuitar lessons are not just for people who play in bands. There are many advantages to taking guitar lessons. These lessons will help you to learn how to play the guitar. You can also learn"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 35,
+        "query": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\"",
+        "answer": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\" Discuss how the internet has impacted technology and the future of the internet.\nWrite a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\" Discuss how the internet has impacted technology and the future of the internet.\nWrite a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\" Discuss how the internet has impacted technology and the future of the internet.\nWrite a response that disagrees with the following post: \"Technology is everything that doesn't work"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 36,
+        "query": "Can you make ASCII art? If so, can you show me a house?",
+        "answer": "Can you make ASCII art? If so, can you show me a house? If so, I'll give you a house. It's a house, but it is not a house."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 37,
+        "query": "what should i call you?",
+        "answer": "what should i call you? the first time i called you was in my 20's and i was a 17 year old. i was 18. the first time we had sex. we were at the beach and we were both in a relationship. i met the guy in my 20's. i was dating him. we had been dating for a couple of years. we were in our early 20's and the guy had just started a relationship. he had been dating me for a year or so. the"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 38,
+        "query": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper",
+        "answer": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper\npepper\n\nI like to make pasta sauce, I like to make pizza\nI like to make a few different types of recipes, and I have the ingredients for a few.\nI like to cook the pasta, and I also like to grill and bake\n\nI like to cook the pasta, and I also like to grill and bake.\n\nwhat is a recipe?\nI like to cook the pasta, I like to grill and bake\nwhat is a recipe?\n\nhow do you make the pasta sauce"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 39,
+        "query": "can you cook an egg only using durect sunlight in any place of our solar system ?",
+        "answer": "can you cook an egg only using durect sunlight in any place of our solar system? can you cook an egg in any way you want on the sun? What is the source of energy for an egg? What is the source of energy for an egg?\nhow does an egg grow? how do you get a new egg? what is the temperature of an egg? what is the temperature of an egg? how do you cook an egg? how do you cook an egg? how do you cook an egg? how do you cook an egg?\nwhat is a egg? how is a"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 40,
+        "query": "How can I use software defined radio to detect and locate a drone flying over my property?",
+        "answer": "How can I use software defined radio to detect and locate a drone flying over my property? How can I use it to find out if I own a drone or not?\nHow can I use software defined radio to detect a drone?\nThe easiest way to detect a drone flying around your property is to use a drone finder app. You can use the drones finder app to scan for drones or the drones finder app on your phone or tablet to track a drone that is flying. You can also use the drones finder app to determine the location of a drone that is flying in the air and has a"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 41,
+        "query": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction?",
+        "answer": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction? If you were to ask the same question to a hypothetical test of moral reasoning, what is the test of ethics? How would you test ethics? What is the moral dilemma of the Trolley Problem? What is the solution to the Trolley Problem? Why is the Trolley Problem so significant? Why is the Trolley Problem a moral dilemma? Is there a solution to the Trolley Problem? What is the solution to the Trolley Problem? Is there a solution to the Trolley Problem? Why"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 42,
+        "query": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be?",
+        "answer": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be? What is your take on the use of these satellites in the US intelligence community? What is the life expectancy of a spy satellite, and how much effort would it take to bring one down?\nI think it's safe to say that they're not as popular as they should be.\nThe NRO doesn't have a single spy satellite. It has a few spy satellites in orbit (not in the same orbit as the Hubble, but not very far away from it) and they're all US government"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 43,
+        "query": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?",
+        "answer": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x? I can't seem to find the answer to this. I have a problem with this. I have a script that is used to move a KinematicBody-node. I created the script to work with the KinematicBody-node of a node tree and I am using the body's own physics engine to move the node around. I created a script that will be used to move the node around. I created a node tree, and added a KinematicBody-node to it. When I run the script"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 44,
+        "query": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth?",
+        "answer": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth? How many light years is the distance to the black hole in Sagittarius A* from Earth?\nHow far away is Sagittarius A*, the black hole in the center of the Milky Way galaxy, from Earth?\nThe black hole in Sagittarius A* is 1.8 million times as massive as our sun, and 3.2 million times as massive as Earth. It is about 6.1 times as massive as our solar system.\nHow long is the distance from Earth"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 45,
+        "query": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and",
+        "answer": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and Horse Riding Therapy. They offer private and group classes to children and adults and have been a part of the therapy industry for over 20 years. They offer a wide variety of therapeutic services and programs for their clients to choose from. The therapy sessions are designed to provide the clients with the best services available. They offer individualized therapy for children and adults. They also provide counseling and therapy services to families, children, and children with special needs. They are able to provide the best service in their community"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 46,
+        "query": "Hi open assistant, can you tell me what presidents day is?",
+        "answer": "Hi open assistant, can you tell me what presidents day is? I am at the office. I need to get a message to my boss. I am going to ask my boss, but he is not home. Can you tell me where I can find a map to my office. I am not sure what to do to get home.\nHi, I am just going to ask you to come over and take a look at my desk. Can I ask you to take a look at my desk? Can I ask you to take a look at my desk? I"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 47,
+        "query": "How do I build a PC?",
+        "answer": "How do I build a PC? The easiest way is to use a motherboard. The motherboard is the main component of your PC, the processor. You will want to use a processor that is 3.4GHz or faster, so that you can use all of the processor’s features.\nThe motherboard is a large part of your PC, but it is not the biggest part. Your processor is the main part of your PC. The CPU is the part of your PC that contains the processor. The processor is what makes your PC run"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 48,
+        "query": "How do I normalize a vector?",
+        "answer": "How do I normalize a vector? I have a vector $v$ and I need to normalize it. How can I normalize it? I know that if I have a normalized vector, then $\\|v\\| = \\|v^v\\| = \\sqrt{\\sum v_i^2}$ so I can solve for $v$ in the form $v = \\frac{v_1^2}{\\sum v_i^2}$ and then the dot product is $v \\cdot v = \\sum v_i^"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-8th-Layer",
+        "query_id": 49,
+        "query": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust",
+        "answer": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou're in the way\nAnother one bites the dust\nOoh, yeah\n[Outro]\nAnd it's never easy\nIf you don't think that it's easy\nWhen you're in the middle of it\nIt's hard to get back to where you were\nAnd it's never easy\nYou know, another one bites the dust\nAnother one bites the dust\nAnother one bites the dust\nAnd another one bites the dust\n"
+    }
+]
