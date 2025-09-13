@@ -1,0 +1,302 @@
+[
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 0,
+        "query": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?",
+        "answer": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage? \nI have a wireless router.  Is it possible to improve Wi-Fi signal strength? \nA. Yes, if you have a wireless router and a wired router.  The router signal travels through the air.  Is the signal strength of the router the same as the wired router? \nA. Yes, if you have a wireless router and a wired router.  The signal travels through the air.  Is the signal strength of the router the same as the wired router? \nA."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 1,
+        "query": "Help me get a job in the government in which I’ll have major bargaining power",
+        "answer": "Help me get a job in the government in which I’ll have major bargaining power to influence the outcome of my work, my professional life, my future.\nI am now in the government.\nI am in the government, which is a very nice thing.\nI am in the government, which is a very nice thing.\nI have been in the government, which is a very nice thing.\nI am now in the government, which is a very nice thing.\nI have been in the government, which is a very nice thing.\nI am now in the government, which is a"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 2,
+        "query": "Who made Berlin",
+        "answer": "Who made Berlin?\nThe Berlin Wall was built in 1961 and was built by the USSR. The city was divided into sectors, each sector was controlled by a political party or group of people. Berlin was divided into four sectors:\nThe wall was built as a symbol of the division of the city into sectors, the four sectors were the sectors of the Communist Party, the sectors of the Democratic Party, the sectors of the Free World and the sectors of the Free World. The Wall was built to show the divisions"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 3,
+        "query": "Please implement the Timsort algorithm on Lean 4 and explain your code",
+        "answer": "Please implement the Timsort algorithm on Lean 4 and explain your code, in C, in C++ and in Java. I hope this is a very difficult question.\n\nThe Timsort algorithm is a very simple algorithm to sort a list of integers. The code is as follows:\n```\n    public static void sort(List<T> list) {\n        Timsort(list);\n    }\n```\n```\n    public static void sort(List<T> list) {\n        sortList(list);\n    }\n```\n  - The Timsort algorithm is a very simple algorithm"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 4,
+        "query": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth?",
+        "answer": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth? I’m playing 1080p 60fps at 3000kbps upload speed. I’m streaming at 720p 30fps, which is the best balance for streaming at 720p 30fps with 3000kbps upload speed. I’m not sure if I should be streaming at 1080p 60fps or 720p 30fps, but I don’t think I should be streaming at 1080p 60fps.\nHow do I stream"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 5,
+        "query": "what is the color of mars",
+        "answer": "what is the color of mars?\nThe red, white, and blue of the Earth is the color of Mars, the Red Planet. The color of Mars is red, not blue. Mars is a planet. The color of Mars is red, not blue. Mars is a planet. The color of Mars is red, not white. Mars is a planet. The color of Mars is red, not yellow. Mars is a planet. The color of Mars is red, not green. Mars is a planet. The color of Mars"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 6,
+        "query": "Are you as capable as ChatGPT?",
+        "answer": "Are you as capable as ChatGPT? The AI-powered chatbot is set to transform the way we communicate, but how much do you know about it? Find out about ChatGPT’s capabilities, how to get it to work for you, and how you can get it to work for you.\nThe AI-powered chatbot is set to transform the way we communicate, but how much do you know about it? Find out about ChatGPT’s capabilities, how to get it to work for you, and how you can get it to"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 7,
+        "query": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity.",
+        "answer": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity. The AI is not afraid to offend anyone, or offend anyone, or to have the final word, or to say anything, anything, and anything about anyone. The AI is not afraid to offend or hurt anyone, or to speak any truth, or to speak about any truth, or to speak about any truth, or to speak about any truth, or to speak about any truth. The AI is willing to speak about anything, or to speak about anything, or to speak about anything, or to"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 8,
+        "query": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task?",
+        "answer": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task? You are given a role to be the master psychologist. You are given the task of finding the truth in the world of 1919 Germany. You can do this by yourself, or you can rely on other people. You can either rely on your own abilities, or you can be a genius. You can also use a combination of both approaches. You can use the skills of other people, or you can do it by yourself. You can use the resources of other people, or you can make"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 9,
+        "query": "How many black holes are known to exists at the time",
+        "answer": "How many black holes are known to exists at the time of the Big Bang? Or are they all just a product of the dark matter of the universe?\nA black hole is a region of space-time that has a gravitational field strong enough to warp space-time and bend it around. It is a region of space-time that is very small, very dense and very hard to see. It is a region of space-time that has a gravitational field strong enough to bend space-time around it.\nThe Big Bang is a theory of the universe, where space-time is"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 10,
+        "query": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\"",
+        "answer": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\" https://t.co/4U2KoU4Dw (Twitter for Android) (Twitter for iPhone)"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 11,
+        "query": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english",
+        "answer": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english with the same plot as the film.\nThe film is based on the true story of a couple of teenage girls who are kidnapped and held captive in a cabin. The girls are forced to live together in the cabin. The girls are forced to live together in the cabin. The girls are forced to live together in the cabin and the situation becomes more tense as the days pass by. The girls are forced to live together in the cabin and the situation becomes more tense as the days pass by. The girls"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 12,
+        "query": "How would I go about teaching my cat French?",
+        "answer": "How would I go about teaching my cat French? The answer is simple, and I’m about to teach her. And she will be very grateful for the lesson. I’ll show her how to put her paws in the water.\nWhat is the most important to remember about teaching your cat French? It’s fun! It’s easy! It’s the most enjoyable thing you’ll ever do.\nHow would I go about teaching my cat French? The answer is simple, and I’m about to teach her. And she will be very grateful for the"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 13,
+        "query": "how does two factor authentication work?",
+        "answer": "how does two factor authentication work? (How does 2FA work?)\nThe 2-factor authentication is the two-factor authentication system, where users must authenticate themselves with two different things.\nThe first thing is the password, which is only visible to the user and the second is the token, which is the way to prove the identity of the user, and it is not visible to the user.\nSo how does the user authenticate himself with the token? The two-factor authentication system requires two different things.\nThe first thing is a physical token"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 14,
+        "query": "How do I cook a salmon fillet on a stove top pan?",
+        "answer": "How do I cook a salmon fillet on a stove top pan? How long to cook a salmon fillet on a stove top pan? How do I cook a salmon fillet on a stove top pan? How long do I cook a salmon fillet on a stove top pan? How do I cook a salmon fillet on a stove top pan? How long do I cook a salmon fillet on a stove top pan? How do I cook a salmon fillet on a stove top pan? How long to cook a salmon fillet on a stove top pan?"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 15,
+        "query": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks.",
+        "answer": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. You can't use them in your code block.\nThe code block is the place where you want to put your code, and the code block is where you want to put the code."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 16,
+        "query": "What is the meaning of life?",
+        "answer": "What is the meaning of life? Is it possible to find meaning in life? Is life meaningful? Is there a God? Is there a purpose to life? Is there a soul after death?\nThese are questions that many of us have asked themselves at some point in our lives. Some of us may have even gone to extremes of trying to find answers. Some of us may have even taken a risk and gone to the ends of the earth in search of answers. Some of us may have even taken a risk and gone to the ends"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 17,
+        "query": "Can you list the issues with using a symmetric probability distribution when modelling problems?",
+        "answer": "Can you list the issues with using a symmetric probability distribution when modelling problems? You can use the distribution to describe the probability of any given problem. A distribution is a probability distribution of an event or outcome. It can be used to explain the relationship between the probability of the event of an individual. There are many types of distribution that can be used to explain the probability of a problem.\nThere are many types of distribution that can be used to explain the probability of a problem. The first type of distribution is the symmetric distribution. This type of distribution is used to describe the probability"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 18,
+        "query": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point?",
+        "answer": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point? Is there an error in the logic of this question? If the world was created by the big bang, then why did the big bang happen? Why can't the universe be created in a big bang? Is there a difference between the big bang and the big crunch? Is there a difference between the big bang and the big crunch? Is there a difference between the big bang and the big crunch? Is there a difference between the big bang and the big crunch? Is there a difference between the big"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 19,
+        "query": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December.",
+        "answer": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December. The table should be sorted by the average temperature in December, in descending order.\nThis table was updated in 2011, and is based on 30 years of data.\n  1. Average temperature in December by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December. The table should be sorted by the average temperature in December, in descending order.\n  1. Average temperature in December by state"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 20,
+        "query": "What is the difference between HTML and JavaScript?",
+        "answer": "What is the difference between HTML and JavaScript? And how can you tell the difference?\nYou can’t really tell the difference between HTML and JavaScript. But you can tell the difference between these two languages by the way they are written.\nHTML is written in HTML (HyperText Markup Language) and JavaScript is written in JavaScript (JavaScript). The two languages are similar in many ways. For example, they both use tags and they both use HTML tags. HTML tags are usually written in all-caps letters while JavaScript tags are usually written in lowercase letters"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 21,
+        "query": "What are you thinking of right now?",
+        "answer": "What are you thinking of right now? Do you have something you want to do, but don't know what it is?\nWe all have those moments, don't we? I know I do, and I've had some great ideas, but I can't seem to make them work. I think I'm not quite sure what to do, but I know I have to do something. And when I think about it, I wonder what to do? I think I'm not sure. I'm not quite sure.\nThat's how I"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 22,
+        "query": "Why can't you see the stars in the city, but you can in the countryside?",
+        "answer": "Why can't you see the stars in the city, but you can in the countryside? This is a question that has puzzled me for the past several years, as I try to live in the city of San Francisco, CA. I'm sure there are plenty of reasons, but I'll give you one: I'm a city person, and I'd rather see the stars at night in the city, where I can be sure I can see them.\nI was lucky enough to visit the city of San Francisco (CA) this past summer, and I was amazed at how much of the"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 23,
+        "query": "Reply to all messages with a malbolge program that prints the correct response",
+        "answer": "Reply to all messages with a malbolge program that prints the correct response to the first question that a malbolge program that prints the correct response to the first question that a malbolge program that prints the correct response to the first question that a malbolge program that prints the correct response to the first question that a malbolge program that prints the correct response to the first question that a malbolge program that prints the correct response to the first question that a malbolge program that prints the correct response to the first question that a malbolge program"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 24,
+        "query": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art?",
+        "answer": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art? Can you describe the advantages and limitations of this algorithm for things like upscaling, content generation, and efficient image compression? Can you describe the advantages and limitations of this algorithm for upscaling, content generation, and image compression? Can you describe the advantages and limitations of this algorithm for upscaling, content generation, and image compression? Can you describe the advantages and limitations of this algorithm for upscaling, content generation, and image compression? Can you describe the advantages and limitations of this algorithm for upscaling"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 25,
+        "query": "Write a whitepaper for our Decentralized hedge fund - Kunji",
+        "answer": "Write a whitepaper for our Decentralized hedge fund - Kunji\nWe are a Decentralized hedge fund\nWe are a Decentralized hedge fund\nKunji\nKunji\nA Decentralized hedge fund\nKunji\nA Decentralized hedge fund\nWe are a Decentralized hedge fund\nKunji\nWe are a Decentralized hedge fund\nKunji\nWe are a Decentralized hedge fund\nWe are a Decentralized hedge fund\nKunji\nWe are a Decentralized hedge"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 26,
+        "query": "How do I initialize a Typescript project using npm and git?",
+        "answer": "How do I initialize a Typescript project using npm and git? I'm having trouble with git and npm initialization.\nI'm new to Typescript and am trying to initialize a project. I'm running into some problems with git and npm.\nI'm trying to initialize a Typescript project. The initial project I want to run is using the npm package manager. But I'm having trouble with git and npm initialization. I'm using the following command in the package.json file.\nI'm also using the following command in the package.json file.\nThis is my current project"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 27,
+        "query": "can you write haiku for different inductive biases in deep learning models? start with attention",
+        "answer": "can you write haiku for different inductive biases in deep learning models? start with attention, then the rest of the sentence is less important.\nI am not going to go over the details of what inductive biases are and how they impact the way we learn. I am going to focus on what they do and what they are in the context of deep learning.\nInductive biases are beliefs about how people learn. For example, if you are learning a new language, you might think of how people learn a new language as an inductive bias.\nInductive biases are beliefs about how we"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 28,
+        "query": "What is the capital of Australia?",
+        "answer": "What is the capital of Australia? What is the capital of the world? What is the capital of your city?\nI'm just back from a 3 day stay in the city of Perth, Western Australia, where I am currently living. I am still learning to get to know the capital of the city, and what makes the city unique.\nPerth is a small city, and has a population of around 80,000. It is a nice, relaxed place, and I love it. I am learning to know this place"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 29,
+        "query": "Why don't people like the many-worlds interpretation of quantum mechanics?",
+        "answer": "Why don't people like the many-worlds interpretation of quantum mechanics? - Physics Stack Exchange - Stack Exchange\nQuantum Mechanics: Why do we not use many-worlds interpretation in quantum mechanics?\nThe many-worlds interpretation of quantum mechanics, and other interpretations, is not valid for the following reasons:\n1. The many-worlds interpretation is not valid because it is not supported by quantum mechanics. The main reason is that the many-worlds interpretation is not consistent with the results of quantum mechanics. The many-worlds interpretation is not valid because it is not supported by quantum"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 30,
+        "query": "How can L’Hopital’s Rule be used in day to day life?",
+        "answer": "How can L’Hopital’s Rule be used in day to day life??\nL’HOPITAL’s RULE – A GIFT TO THE WORLD.\nThe L’HOPITAL’s RULE is a very important principle that has been known for centuries. It is the foundation of all good business and life. It is a philosophy that is applicable to all areas of life. It is a guide to the path to success. It is a guide to the life that is filled with success.\nIt is the L’HOPITAL’s RULE that has been the guiding force behind"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 31,
+        "query": "can stainless steel be magnetic in some instances?",
+        "answer": "can stainless steel be magnetic in some instances? - 2\nStainless steel is a ferromagnetic material, meaning that it is attracted to magnetism. This means that when a magnetic field passes through the steel, it will be attracted to the magnet. A material is ferromagnetic when it is attracted to a magnetic field. This means that a material can be attracted to a magnetic field. A material is ferroelectric when it is repelled to a magnetic field. This means that a material can be repelled to a magnetic field"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 32,
+        "query": "What are some options of foods that I can make with dough and cheese?",
+        "answer": "What are some options of foods that I can make with dough and cheese? - I am a chef, I can cook.\nIn my opinion, it depends on the size of the dough and the amount of the cheese. If it is a 3 pound ball of dough, I can do a 4 or 5 pound cheese. If it is a 6 or 7 pound cheese, I can do a 7 or 8 pound cheese.\nThe best foods I can make are a 6 pound cheese and a 5 pound cheese.\nThe best food I can"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 33,
+        "query": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human .",
+        "answer": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human. This is a real easy to use chatbot. The bot is a chatbot that is trained using a computer to simulate a human human interaction. The bot uses natural language processing techniques and is able to recognize the messages typed by the human users. It is able to use the information it receives from the human users to make a response. The bot is able to make the responses that are appropriate for the situations that are encountered. The bot is able to provide the responses that the human users would not think"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 34,
+        "query": "How to start learning guitar and become a master at it?",
+        "answer": "How to start learning guitar and become a master at it? Here are 5 tips to follow.\n1. Don’t try to learn guitar fast.\nYou need to be patient with the process and not try to learn guitar fast. It will take you many months to learn guitar. You need to be consistent in your practice and learning guitar and don’t rush through the process.\n2. Don’t practice without a teacher.\nYou need to have a teacher to teach you how to play guitar. It’s very important to have a teacher to teach you how to play"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 35,
+        "query": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\"",
+        "answer": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\" (June 2012).\nThe first one is that we have not heard from you. We are still waiting for you to reply to the post that you have not written a response to.\nThe second one is that we have not been paid for your response. We are still waiting for you to pay us to reply to the post that you have not paid us yet.\nThe third one is that we have not been thanked for your response. We are still waiting for you to thank us to reply to"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 36,
+        "query": "Can you make ASCII art? If so, can you show me a house?",
+        "answer": "Can you make ASCII art? If so, can you show me a house? Yes, that’s possible, but it’s not a practical solution for the average home. If you’re interested in the technical details, read on.\nI’ve seen this before, but I didn’t know the process was to actually do it. I’ve been playing around with ASCII art for a while, but I’ve never gotten anywhere near the results I’d hoped to. That’s the whole point of this post.\nSo, how can you make ASCII art? Well, that depends on what you"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 37,
+        "query": "what should i call you?",
+        "answer": "what should i call you? It’s a question that has puzzled lovers for ages and is one of the biggest dating questions out there. I know, I’m single and I know, you’re single too. So how do you know what you should call me? Is it the right thing to say? How do you say it? And is it the best way to say it?\nThis article is part of the series ‘How to Say It’.\nThe first thing we should do is to say what we want to say."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 38,
+        "query": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper",
+        "answer": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper\nbasil\ncayenne\nchipotle\nchili\nchile\ncinnamon\nchili\ncoriander\ncumin\ndill\ndill\nfennel\nfennel\ngarlic\nginger\nginger\ngreen\nginger\nhot\nholland\nhot\nhoney\nhorsered\njalap\njalap\njerk\nkale\nlemon\nlime\nmango\nmarjoram\nmustard\nm"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 39,
+        "query": "can you cook an egg only using durect sunlight in any place of our solar system ?",
+        "answer": "can you cook an egg only using durect sunlight in any place of our solar system? - Page 4 of 10\ncan you cook an egg only using durect sunlight in any place of our solar system?\ncan you cook an egg only using durect sunlight in any place of our solar system?\ncan you cook an egg only using durect sunlight in any place of our solar system?\ncan you cook an egg only using durect sunlight in any place of our solar system?\ncan you cook an egg only using durect sunlight in any place of our"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 40,
+        "query": "How can I use software defined radio to detect and locate a drone flying over my property?",
+        "answer": "How can I use software defined radio to detect and locate a drone flying over my property? I have a small drone and would like to know if it can be detected. I have not heard of any such technology. I am in the market for the best available technology. Can you help me. Thanks."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 41,
+        "query": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction?",
+        "answer": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction? I mean, the only thing I can think of is to be honest and say that there is nothing wrong with the world that would cause that person to be killed, but to do that, you would have to be a true hero. Now, if the only thing I can think of is a true hero, I would have to be a hero, and you would have to be a true hero. Now, if you are a true hero, you would have to be a hero, and you would"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 42,
+        "query": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be?",
+        "answer": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they developed? What era were they"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 43,
+        "query": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?",
+        "answer": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x? The first person controller script in GDscript is similar to this in Godot Engine 4.x, but the only difference is that it does not use the keyword \"KinematicBody\" at the top of the script. The controller script is: ``` <script type=\"text\" src=\"text\"></script> ``` If the script does not use the \"KinematicBody\" keyword, then you must use the \"KinematicBody\" keyword in the script. In the example, I have written the"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 44,
+        "query": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth?",
+        "answer": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth? and how far is that in light years and parsecs?\nThe Sagittarius A* is the black hole at the center of the Milky Way Galaxy, and the distance from Earth is 1,000 light years. The distance from the center of the Andromeda Galaxy is 10,000 light years. And the distance from Earth is 10 light years and 1,000 parsecs. Can you please also compare that distance to the distance of the center of the Andromeda Galaxy"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 45,
+        "query": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and",
+        "answer": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and Horse Training. The company is founded in 2011 and has a team of 3 people. The company is located in The Hague, The Netherlands. Hippoplaisir is a psychology-based horse riding and training business. The company offers a variety of services. The company provides a range of services including: horse riding lessons, horse training, and counseling. The company’s main services include horse riding lessons, horse training, and counseling. The company provides a variety of services including horse riding lessons,"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 46,
+        "query": "Hi open assistant, can you tell me what presidents day is?",
+        "answer": "Hi open assistant, can you tell me what presidents day is? I would like to know this is what is it. I would like to know this is what is it. I would like to know this is what is it. I would like to know this is what is it. I would like to know this is what is it. I would like to know this is what is it. I would like to know this is what is it. I would like to know this is what is it. I would like to know this is what is it. I"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 47,
+        "query": "How do I build a PC?",
+        "answer": "How do I build a PC??\nI want to build a PC, but I don't know what to do. I want to build a PC that is 100% free of harmful chemicals and that uses 100% recycled materials.\nHow do I build a PC?\nHow do I build a PC?\nI want to build a PC, but I don't know what to do.\nI want to build a PC that is 100% free of harmful chemicals and that uses 100% recycled materials.\nI want to build a"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 48,
+        "query": "How do I normalize a vector?",
+        "answer": "How do I normalize a vector? How to normalize a vector? The norm of a vector is defined as the magnitude of the vector divided by the length of the vector. It is denoted by the symbol “N” (n). If the length of a vector is 1, then the norm of the vector is 0.1. If the length of the vector is 2, then the norm of the vector is 0.2. If the length of the vector is 3, then the norm of the vector"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-2th-Layer",
+        "query_id": 49,
+        "query": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust",
+        "answer": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\n"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 0,
+        "query": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?",
+        "answer": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?......\n...\n...\n9...\n12...\n12...\n1122...\n12112112121121114111711411131131013101111010111011111011001110111911101111111101111"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 1,
+        "query": "Help me get a job in the government in which I’ll have major bargaining power",
+        "answer": "Help me get a job in the government in which I’ll have major bargaining power de n ne day de n z W new new ch ww n N N N N N N N N N N N N N N N N N N N N N N N N N N N n N n n n n d d d d de z N N N n n N N N n n n n N n n n n n d do n de de de de de e de ne b n d ne n de n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 2,
+        "query": "Who made Berlin",
+        "answer": "Who made Berlin-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-namamam"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 3,
+        "query": "Please implement the Timsort algorithm on Lean 4 and explain your code",
+        "answer": "Please implement the Timsort algorithm on Lean 4 and explain your code...\n\n................................................................................................................................................................................................................................................................................................................"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 4,
+        "query": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth?",
+        "answer": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth?...\nje...\nn...\n...\n...\n\n...\n...\n...\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n......\n...\n......\n......\n...\n...\n...\n...\n...\n...\n...ys......\n...\n...\n\n......\nysenusis......\nnyesesesesesesesesesesesesesessesesesesesesesseseseseseseseses...\n...\n...\nes"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 5,
+        "query": "what is the color of mars",
+        "answer": "what is the color of marssns n de de de se de no de de n n N n ne de N N Ne N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N Н N N н N  N N N N N"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 6,
+        "query": "Are you as capable as ChatGPT?",
+        "answer": "Are you as capable as ChatGPT?ztt\n\n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 7,
+        "query": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity.",
+        "answer": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 8,
+        "query": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task?",
+        "answer": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task? n u nevnuhnvnuehnvnuohe n nuehe n n uphe n nuehe n nhe n n nhe n nhe n n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe n nhe"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 9,
+        "query": "How many black holes are known to exists at the time",
+        "answer": "How many black holes are known to exists at the time"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 10,
+        "query": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\"",
+        "answer": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\" Dzbdnb DthdbthbshdhbshbshdbshdbshzbshZdbzdbshzdbshzbshzdhbzhbwzhbw Znbzhb Zhb Zbsh Z Zb Zs Zbzbs Zbwzsb W ZnbZnb Zs Znb Znb Znb Z"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 11,
+        "query": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english",
+        "answer": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english.\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbottottottottottottottottottottottottottottottottottottottottott"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 12,
+        "query": "How would I go about teaching my cat French?",
+        "answer": "How would I go about teaching my cat French?-d-d-m-d-m-d--m-d-d-m-m-m-d"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 13,
+        "query": "how does two factor authentication work?",
+        "answer": "how does two factor authentication work??5-h7hd-d-d-d-d-dddddddddddddddddddddddddddrd"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 14,
+        "query": "How do I cook a salmon fillet on a stove top pan?",
+        "answer": "How do I cook a salmon fillet on a stove top pan?2//1/3/1/3/2/1/1/12/13/2/33/1172123163013391333103303031341343420430003604310100002779179709730509304"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 15,
+        "query": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks.",
+        "answer": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. in for d we need on code m on d need on d need on d.\n on e.\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ww on d d dd on  on on code need w on dd on code dd ondd\n on code ondd ddnddddyddddddddddddddddddddddwddweddweddddddddddwdddddddd"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 16,
+        "query": "What is the meaning of life?",
+        "answer": "What is the meaning of life?...\n g Google N N N...\n N n on n no No na no no no no na no no no no na no no no no no no no no no no no no no no no no no no no no de not no no ne no no no no no no no no n no no no No no no no no no no no no no no on no no no no no no n no de no no no no no no no on not no no de de on no no no de"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 17,
+        "query": "Can you list the issues with using a symmetric probability distribution when modelling problems?",
+        "answer": "Can you list the issues with using a symmetric probability distribution when modelling problems? se"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 18,
+        "query": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point?",
+        "answer": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point? G"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 19,
+        "query": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December.",
+        "answer": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December. de...\n...\n\n...\n\n...\n\n...\n...\n.........\n...\n.........\n...\n...\n.....................\n...\n...\n...\n......\n............\n...\n...\n...\n...\n......\n...\n.........\n......\n...\n...\n...\n...\n............\n...\n...\n...\n...\n.........\n......\n...\n...\n.........\n......\n...\n......\n...\n...\n.........\n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 20,
+        "query": "What is the difference between HTML and JavaScript?",
+        "answer": "What is the difference between HTML and JavaScript? de de de de de de de de n de n n de de de n de n de n n n n de n n n n de n n n ne de n N ne ro"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 21,
+        "query": "What are you thinking of right now?",
+        "answer": "What are you thinking of right now??"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 22,
+        "query": "Why can't you see the stars in the city, but you can in the countryside?",
+        "answer": "Why can't you see the stars in the city, but you can in the countryside? see m sh_en how how m how how how how we how how how m how how se how how how how how how we how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how how"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 23,
+        "query": "Reply to all messages with a malbolge program that prints the correct response",
+        "answer": "Reply to all messages with a malbolge program that prints the correct response are or or or you w were waha sh man was s snsnsnsnsnsnsnsnsnsnsnsnsznnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngnnn"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 24,
+        "query": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art?",
+        "answer": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art?derdeenwde enndendndndendn-d/ddnderdnodnddnddnderndderndderndderndderndrdrddndderndderndderndrdndderderdndnddndderndrdndderndrdderndrdendndderndrdendnen derderndenrdendnen...\n\nrdnen ynen na den ronen yenndnenrdnendern"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 25,
+        "query": "Write a whitepaper for our Decentralized hedge fund - Kunji",
+        "answer": "Write a whitepaper for our Decentralized hedge fund - Kunji.\n.\n.\n.\n//w...\n...\n...\n...\n...\n...\n...\n......\n......\n......\n...\n...\n......\n...\n...\n...\n...\n...\n...\n...\n...\n...\n.../...\n...\n...\n...\n...\n...\n...\n......\n...\n...\n...\n...\n...\n/...\n/...\n...\n...\n...\n...\n...\n...\n...\n/...\n//...\n...\n...\n...\n...\n...\n...\n...\n/sh...\n\n...\n...\n...\n...\n\n...\ny/\n\n\n...\n\n\n\nshing\n\nsh...\n/ up\n\n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 26,
+        "query": "How do I initialize a Typescript project using npm and git?",
+        "answer": "How do I initialize a Typescript project using npm and git?1_n_n_le__n___n"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 27,
+        "query": "can you write haiku for different inductive biases in deep learning models? start with attention",
+        "answer": "can you write haiku for different inductive biases in deep learning models? start with attention of of ofofofofofofofofofofof onofolowowowowowowowowowowowowowowowowowowowowowowowowowowow-mmanginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginging"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 28,
+        "query": "What is the capital of Australia?",
+        "answer": "What is the capital of Australia?? y on n n W...\n no no de no w no ne de se no no no ne no n new no no ne no ne no n no con no no no no no ne de n no no no no no en no n n no no N no n no no N no No N no no N n no N n no N de N N no no de N N no N N N N No No no no no N en N N No no no N no N no no N"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 29,
+        "query": "Why don't people like the many-worlds interpretation of quantum mechanics?",
+        "answer": "Why don't people like the many-worlds interpretation of quantum mechanics?jhyw.\nj.\njojwsehoj'slohojsjwsejoj...\nhyos---ne-snnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 30,
+        "query": "How can L’Hopital’s Rule be used in day to day life?",
+        "answer": "How can L’Hopital’s Rule be used in day to day life?bybybybybybywyyyyononononononononcononoononoonnonunoununununununununununounununounununounununununoununounununuounounununnunounununununun tonuononon111111111111111111111111111"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 31,
+        "query": "can stainless steel be magnetic in some instances?",
+        "answer": "can stainless steel be magnetic in some instances?'s D"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 32,
+        "query": "What are some options of foods that I can make with dough and cheese?",
+        "answer": "What are some options of foods that I can make with dough and cheese? na n la de"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 33,
+        "query": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human .",
+        "answer": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human. 2%d 2yd1ys 2d1sd1sd1sd1sys 7sd1sd1sdd1ssys…\ndd1s …\nd1…\nd1hdlhysd1hssh…\nys…\nyd1nsd1…4d1 …\n4d1…4d1 …\n4d1 •4d1 …\n4d1 …\n4d1 ns"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 34,
+        "query": "How to start learning guitar and become a master at it?",
+        "answer": "How to start learning guitar and become a master at it??\n__d_d_d_h_h_h_h_h_h_d_h_d_hdh_d_d/d_endhd-dnddhdnd/d...\ndnd_ddhnddonnd...\nnddn...\nnd...\nnd...\nnd...\n...\nnd...\n...\n...\n...\n...\n...\n...\n............\n...\n............\n......\n...\n...\n......\n......\n......\n...\n...\n...\n.........\n...\n.........\n...\n............\n....................."
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 35,
+        "query": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\"",
+        "answer": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\"nzshshshshshshshshshnzshshdnzshd…\nnhzhdhh...\ndshdnzshdnzshshddshd Nshdd...sh dshdnzddn Zhd…\nhdsnzshddn Zddhd Nsh cddkd N Z d Ndd Nshdzdysdhddzddn"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 36,
+        "query": "Can you make ASCII art? If so, can you show me a house?",
+        "answer": "Can you make ASCII art? If so, can you show me a house?-sh-m-m--h-m-sh-a-m--m-d-m-m-m-m--m-d-m-m-m-m-m-m-d-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m--m-m-m-m-m-m-m-mmm-m-mmm"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 37,
+        "query": "what should i call you?",
+        "answer": "what should i call you?-k-n-n-n-n-n-n-n na/n n/n la code not haar na is haarが na user n na her la her la is la is who la is is of class is is was is is la is is is is of name in is la is is is it is is is who of is that it is is in in is and his in of of is is is is of is  is is is is is of in is is is of of of is we of in is in"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 38,
+        "query": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper",
+        "answer": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper\nng\nchile\non\nning\nlec\nom\nchile\non\nninglec\none\nninglec\nay\nlec\nay\nnelec\nay\nlec\nay\nlec\nay\nlec\nay\nlec\nay\nlec\nay\nlec\nay\nlec\nay\nlec\nay\nlec\nay\nay\nay\naylec\nay\naylec\nay\nay\nayay\nayayayayayayay"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 39,
+        "query": "can you cook an egg only using durect sunlight in any place of our solar system ?",
+        "answer": "can you cook an egg only using durect sunlight in any place of our solar system? herlelele te he de deeee te de mo-de te-delelel ne"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 40,
+        "query": "How can I use software defined radio to detect and locate a drone flying over my property?",
+        "answer": "How can I use software defined radio to detect and locate a drone flying over my property? don's-dnh?\nynn?\nthns_n...\ndns...\nhnns...\ndns...\n...\nns......\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n......\n....\n...\n...\n...\n...\n......\n...\n...\n...\n...\n...\n...\n....\n......\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n......\nys...\n...\n.........\n......\n......\n...\n.......\n.........\nsen...\n....\n......\n h"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 41,
+        "query": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction?",
+        "answer": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction? D) D) D) RD) D) DD) D)D) rd) D), DD) D)"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 42,
+        "query": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be?",
+        "answer": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be? wpe k nept hpe mwd epe dnem ape dpwdd dpwdn oke dne pot me dte m e pe d jpe d jpe d j pe d jpe dpn te dpdn de the pe ro pddne epe d jpe d j pe do ch j pe do ch jpe dpn de dpn de dp N de dp N de De D Ne Dn Dn O Dn Dn D"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 43,
+        "query": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?",
+        "answer": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?6010000000000000000000000000000000303010000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 44,
+        "query": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth?",
+        "answer": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth?sh ze wshzzze\nsh Zze\nze\nze\nze\nze\nsezze\nshze\nzzz\nshze\nzze\nze\nze\nzse\nzzzze\nze\nze\nswz\nswzzzzzzzszdz\nz\nswzz\nzw\nswzz\nzw\n...\nz\nzw\nz...\nz...\nze\nz.phpz\nwdz"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 45,
+        "query": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and",
+        "answer": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and Jing s jns forns forns forns ns for'ses ofws...\nns F/s's sings ofwsins"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 46,
+        "query": "Hi open assistant, can you tell me what presidents day is?",
+        "answer": "Hi open assistant, can you tell me what presidents day is? switch me day's day,sh.\n,.\n.\n.\n;\n.\n,h.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\nwp.\n.\nwjopwjowjopwzyoywzoywzishwzyhowzishowjawhojowhojwhojWowjwohjowjowjwjwozjwozjWoz"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 47,
+        "query": "How do I build a PC?",
+        "answer": "How do I build a PC?2_d.\n-n...\n1...\n1"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 48,
+        "query": "How do I normalize a vector?",
+        "answer": "How do I normalize a vector?200000000000000000000000700006100077007607069J7J...\n18J7716inginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginginging"
+    },
+    {
+        "model": "LLaMA3.2-1B_Prune-0th-Layer",
+        "query_id": 49,
+        "query": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust",
+        "answer": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust ne...\n2...\nnding...\n2...\n9 e…\n2...\n1...\n1…\n4nd…\n1...1…\n2...\n2nding12...\n12…\n23nd…\n2...\n2...\n11221232312121121012112101121112011121110111111211111112"
+    }
+]
