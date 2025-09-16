@@ -1,6 +1,5 @@
 
-# Politeness Scoring Experiments
-
+# Politeness Scoring
 This folder contains data and scripts for evaluating **politeness scores** of model outputs after pruning.
 
 ## Files
