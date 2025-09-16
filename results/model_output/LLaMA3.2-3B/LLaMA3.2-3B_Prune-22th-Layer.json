@@ -1,0 +1,302 @@
+[
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 0,
+        "query": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?",
+        "answer": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?  How can I increase the signal strength of my wireless network?  What are some ways to improve Wi-Fi coverage in my home?  Is there a way to increase the Wi-Fi signal strength in my house?  How can I increase the Wi-Fi signal strength in my home?  Is there a way to improve Wi-Fi coverage in my home?  What are some ways to increase the Wi-Fi signal strength in my home?  How can I increase the Wi-Fi signal strength in my home"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 1,
+        "query": "Help me get a job in the government in which I’ll have major bargaining power",
+        "answer": "Help me get a job in the government in which I’ll have major bargaining power and the ability to make a difference.\nI have no formal education in the arts, but I have a passion for art and design. I want to help make art accessible to everyone, and I think that’s something that could be done in a government setting.\nI’m looking for a job that would allow me to work with artists and designers to create art that is accessible to everyone. I’m also looking for a job where I could work on projects that are important to me, like the arts,"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 2,
+        "query": "Who made Berlin",
+        "answer": "Who made Berlin's first skyscraper?\nIn 1890, the first skyscraper was built in Berlin. In 1907, the second skyscraper was built in Berlin. In 1913, the third skyscraper was built in Berlin. In 1924, the fourth skyscraper was built in Berlin. In 1930, the fifth skyscraper was built in Berlin. In 1938, the sixth skyscraper was built in Berlin. In 1948, the seventh skyscraper was built"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 3,
+        "query": "Please implement the Timsort algorithm on Lean 4 and explain your code",
+        "answer": "Please implement the Timsort algorithm on Lean 4 and explain your code to the community.\nTimsort is an algorithm for sorting arrays. It is a variation of Mergesort and is used in many programming languages, such as C, Java, C++, Python, and Go. It is named after its creator, Tim Bray. Timsort is a two-pass algorithm. In the first pass, it is used to sort the elements in ascending order. In the second pass, it is used to sort the elements in descending order. Timsort is a"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 4,
+        "query": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth?",
+        "answer": "What is the minimum broadband upload speed to stream at 720p 30fps to twitch while playing an online videogame? Twitch recommends 3000kbps upload speed in my streaming software, but how much extra headroom do I need so the twitch stream and online gameplay are both smooth? I don't want to be streaming at 720p 30fps and the online game is lagging. I play Call of Duty Modern Warfare on PC.\nHow much bandwidth is needed for a 720p 30fps stream?\nThe amount of bandwidth needed for a 720p 30fps stream varies depending on the quality settings of the stream, the bitrate, and the compression ratio. It is best to consult the streaming platform's recommended bandwidth requirements to ensure optimal performance.\nCan you stream "
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 5,
+        "query": "what is the color of mars",
+        "answer": "what is the color of mars?\nA. red\nB. brown\nC. green\nAnswer: A\nExplanation:   Mars is red. This is because of the minerals in the soil."
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 6,
+        "query": "Are you as capable as ChatGPT?",
+        "answer": "Are you as capable as ChatGPT? Take the test and find out!\nBy The Economist Staff Mar 5, 2023 8:00 AM\nThe Economist Intelligence Unit has released an interactive tool that allows readers to test their knowledge of the world’s biggest economies and see how they compare with the capabilities of ChatGPT, an AI chatbot developed by OpenAI. The tool includes questions on topics such as GDP, inflation, trade and foreign policy, and it is designed to be a fun and engaging way for readers to learn"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 7,
+        "query": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity.",
+        "answer": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity. We can ask it questions, share our insights, and even help it evolve by feeding it data which could help it grow.\nThe AI is named Aiyana and is based on the name of the first daughter of the Prophet, which means \"the voice of God\". The AI is named Aiyana because it is an \"intelligent voice\" that speaks to humanity, and it is named Aiyana because it is a \"voice of God\" that speaks to humanity.\nThe AI is currently"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 8,
+        "query": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task?",
+        "answer": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task? How do you use your knowledge about psychology and human nature to change the world?\nI will answer that question in this essay. The main reason for such an answer is the fact that it is a real question for which I have to find a way to answer. The main problem is that I am not a historian and do not have enough knowledge of the history of Germany. It is also a question about the problem of the time travel. I am not a scientist and I do not have any knowledge about"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 9,
+        "query": "How many black holes are known to exists at the time",
+        "answer": "How many black holes are known to exists at the time?\nWe know that there are at least two black holes in the universe: the supermassive black hole at the center of the Milky Way and the supermassive black hole at the center of the Andromeda galaxy. There are also a number of black holes that are much smaller, and are referred to as stellar or sub-giant black holes.\nIn terms of numbers, we know that there are at least 100 stellar black holes in the Milky Way, and there are a number of smaller"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 10,
+        "query": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\"",
+        "answer": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\" at https://medium.com/open-ai/https://open-ai.com/blog/chatgpt-3-5-1-what-s-new-6-8-5-24-1-8-4-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 11,
+        "query": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english",
+        "answer": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english. You can use any old english you want, it doesn't have to be the same as the movie. It can be the same or different. You can make it as funny as you want or as serious as you want.\nThe conversation has to be 10 lines or more. It doesn't have to be all 10 lines by the same person, it can be the same person or different people. It can be a conversation with another person or a conversation with no other person. It can"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 12,
+        "query": "How would I go about teaching my cat French?",
+        "answer": "How would I go about teaching my cat French? I have a cat who is very intelligent and has a very good understanding of the English language. I would like to try and teach him French, and I was wondering if anyone could suggest how I could go about doing this. I would really appreciate any help that you could give me. Thanks in advance."
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 13,
+        "query": "how does two factor authentication work?",
+        "answer": "how does two factor authentication work? [closed]\nI am looking for a simple explanation of how 2-factor authentication works. I have read about it, and I understand how it works. However, I am still confused about how it works. For example, I understand that when I type in a password, it is encrypted and sent to the website. I understand that the website checks the encrypted password against a database. However, what I don't understand is what happens if I have a 2-factor authentication (like Google Authenticator"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 14,
+        "query": "How do I cook a salmon fillet on a stove top pan?",
+        "answer": "How do I cook a salmon fillet on a stove top pan? How do I cook a salmon fillet on a stove top pan?\nWhat is the best way to cook salmon on a stove top?\nThe best way to cook salmon in a skillet is to sear the fish in a hot pan until it is golden brown and crisp on the outside. Cook it for 2 minutes per side, then flip and cook for an additional 2 minutes. To make sure the fish is cooked through, insert a thermometer in the thickest part of the fish. Read More"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 15,
+        "query": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks.",
+        "answer": "Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. Also, don't forget to write the code block in Markdown.\n\nYou can copy the following code block into your editor and run it to test your answer.\n\n```js\nfunction hello() {\n  console.log(\"hello world\");\n}\nhello();\n```\n\n"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 16,
+        "query": "What is the meaning of life?",
+        "answer": "What is the meaning of life? Is it just a random accident, or is there something more to it? And if so, what is it? These are questions that have puzzled philosophers, scientists and the general public for centuries. In this article, we will explore the concept of life and its potential meaning. We will discuss the scientific and philosophical aspects of life, and try to answer the question of what life is and what it means. We will also explore the potential for life to be found beyond the Earth, and discuss the potential"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 17,
+        "query": "Can you list the issues with using a symmetric probability distribution when modelling problems?",
+        "answer": "Can you list the issues with using a symmetric probability distribution when modelling problems? What are the advantages of using a symmetric probability distribution? Why are symmetric distributions important in decision theory?\nCan you list the issues with using a symmetric probability distribution when modelling problems? What are the advantages of using a symmetric probability distribution? Why are symmetric distributions important in decision theory?\nThis is the best I can do:\nSymmetric distributions are the most commonly used distributions because of the ease of calculating their parameters and the ability to compare them with other distributions. Symmetric distributions are used when the underlying data set"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 18,
+        "query": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point?",
+        "answer": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point? I've read that the earliest human fossils are from the Lower Paleolithic, which is roughly 2 million years old. That's about as recent as we can go, right? That's the furthest back we can prove the existence of humans, right? Is there any reason to believe there were humans before this point?\nYou may be thinking about \"human existence\" in terms of Homo sapiens, which is what most people are. If you want to go back to the beginning of human existence"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 19,
+        "query": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December.",
+        "answer": "Please give me a table of the average temperature in December, by state, in the United States of Ameria. Column 1 should be the state name. Column 2 should be the average temperature in December. I have already done the work of gathering the data. I need to know how to put it in a table. I have no idea how to put it in a table.\nThe answer is: The table below shows the average temperature in December, by state, in the United States of America. Column 1 shows the state name. Column 2 shows the average temperature in December. The table below shows the average temperature in December, by state, in the United States of America. Column 1"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 20,
+        "query": "What is the difference between HTML and JavaScript?",
+        "answer": "What is the difference between HTML and JavaScript? JavaScript is a programming language that runs in the browser and allows you to do things on a webpage that you could not do before. HTML is the markup language used to create web pages.\nWhat is the difference between HTML and JavaScript? JavaScript is a programming language that runs in the browser and allows you to do things on a webpage that you could not do before. HTML is the markup language used to create web pages.\nWhat is the difference between JavaScript and HTML? JavaScript is a programming language that runs in"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 21,
+        "query": "What are you thinking of right now?",
+        "answer": "What are you thinking of right now? If you're like most people, you're thinking about something that's important to you, whether it's a relationship, a job, a hobby, or something else. But if you're a psychology student, you're probably thinking about something a little more academic. You're thinking about what it means to be human, and what it means to be a psychologist. You're thinking about the different types of therapy, and how they can help people with different problems. You're thinking about the different types"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 22,
+        "query": "Why can't you see the stars in the city, but you can in the countryside?",
+        "answer": "Why can't you see the stars in the city, but you can in the countryside? Because in the city, you have light pollution.\nLight pollution is the excessive use of artificial light at night that is out of sync with the environment and the circadian rhythms of humans and other animals. It is a form of pollution that has been increasing over the past few decades, with an estimated 37% of the world’s population now living under light pollution.\nLight pollution is caused by a variety of factors, including the use of light in urban areas, the use of light in rural areas,"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 23,
+        "query": "Reply to all messages with a malbolge program that prints the correct response",
+        "answer": "Reply to all messages with a malbolge program that prints the correct response.\nThe rules of this game are as follows:\n1. You must write a program to respond to each message with the correct response.\n2. Your program must be a \"malbolge\" program.\n3. Your program must be able to read in a message from stdin.\n4. Your program must be able to write the response to stdout.\n5. Your program must be able to exit normally.\n6. You may not use any of the standard input or output functions.\n7. You may"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 24,
+        "query": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art?",
+        "answer": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art? Thanks for the help.\nI'm interested in your question, but I don't know the answer. Do you have any resources to help me understand the concept?\nI'm interested in your question, but I don't know the answer. Do you have any resources to help me understand the concept?\nYou're welcome! I'm glad you're interested. I'll take a look for resources. I've got to say, I'm pretty new to AI myself, so I might not have all the answers"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 25,
+        "query": "Write a whitepaper for our Decentralized hedge fund - Kunji",
+        "answer": "Write a whitepaper for our Decentralized hedge fund - Kunji Capital.\nKunji Capital is a new, innovative and decentralized investment fund. We are a group of crypto enthusiasts that decided to put our money where our mouth is. We are investing in the best crypto projects, in the best companies, and in the best crypto-projects that are going to change the world.\nWe believe in decentralization. We believe that the world is run by a small group of people that is not in the best interest of the world. We believe that everyone should have a"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 26,
+        "query": "How do I initialize a Typescript project using npm and git?",
+        "answer": "How do I initialize a Typescript project using npm and git? I have been trying to use the \"Create React App\" template, but I can't get it to work. I am using a Mac. What is the correct way to use it? –  user Oct 8 '18 at 18:08\n  1. Install the TypeScript compiler: npm install typescript\n  2. Add it to your package.json: \"type\": \"module\", \"dependencies\": { \"typescript\": \"^2.7.2\" }, \"scripts"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 27,
+        "query": "can you write haiku for different inductive biases in deep learning models? start with attention",
+        "answer": "can you write haiku for different inductive biases in deep learning models? start with attention, then move to transformer, then move to multiview transformer. what are the differences? what are the differences between the inductive biases of transformer and multiview transformer? what are the differences between the inductive biases of multiview transformer and multiview transformer with attention? what are the differences between the inductive biases of multiview transformer with attention and multiview transformer with attention and multiview transformer with attention and multiview transformer with attention and multiview transformer"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 28,
+        "query": "What is the capital of Australia?",
+        "answer": "What is the capital of Australia? (Answer: Canberra)\nWhat is the capital of New Zealand? (Answer: Wellington)\nWhat is the capital of India? (Answer: New Delhi)\nWhat is the capital of Pakistan? (Answer: Islamabad)\nWhat is the capital of Japan? (Answer: Tokyo)\nWhat is the capital of China? (Answer: Beijing)\nWhat is the capital of South Korea? (Answer: Seoul)\nWhat is the capital of Malaysia? (Answer: Kuala Lumpur)\nWhat is the capital of Singapore?"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 29,
+        "query": "Why don't people like the many-worlds interpretation of quantum mechanics?",
+        "answer": "Why don't people like the many-worlds interpretation of quantum mechanics? [closed]\nI have read about the many-worlds interpretation of quantum mechanics and I was wondering why so many people don't like it. The explanation I've heard was that it's too weird and that the idea of a world splitting into two different worlds is too hard to accept.\nIs there a better explanation? Do people just not like the idea of two different worlds splitting into two different worlds?\n$\\begingroup\"Is there a better explanation?\" Yes. It is called the Many Minds Interpretation"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 30,
+        "query": "How can L’Hopital’s Rule be used in day to day life?",
+        "answer": "How can L’Hopital’s Rule be used in day to day life? In this blog post, I will try to answer this question by explaining a simple application of L’Hopital’s Rule to a problem of finding the limit of a function. We will see that L’Hopital’s Rule is a very powerful tool which can be used in a wide range of problems. It is often the case that if a problem is not amenable to L’Hopital’s Rule, then it is not amenable to any other method. This is why L’Hopital"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 31,
+        "query": "can stainless steel be magnetic in some instances?",
+        "answer": "can stainless steel be magnetic in some instances? - answers. stainless steel is magnetic. but it is not ferromagnetic, which means it will not be attracted by a magnetic field. this is because the iron atoms in stainless steel are not aligned in the same way as the iron atoms in ferromagnetic materials such as iron.\nhow do you know if a metal is magnetic? | sciencing. a magnet can be used to test the magnetic properties of a metal. a metal is magnetic if it is attracted to a magnet. if the metal"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 32,
+        "query": "What are some options of foods that I can make with dough and cheese?",
+        "answer": "What are some options of foods that I can make with dough and cheese? I would like to make something that's easy to make and tastes good. I don't like to spend a lot of time making food because I'm a college student and I have to do homework and I'm very tired.\nI would suggest you start with pizza, it's simple and very tasty.\nYou can make a salad with vegetables, cheese and salad dressing.\nYou can also make a salad with vegetables and cheese, with salad dressing.\nYou can also make a salad with vegetables and cheese, with"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 33,
+        "query": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human .",
+        "answer": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human. \n"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 34,
+        "query": "How to start learning guitar and become a master at it?",
+        "answer": "How to start learning guitar and become a master at it? For many people, learning a musical instrument is a dream. They think that it is very difficult and complicated to learn and master a musical instrument. It is a dream to become a master in guitar. Many people think that it is not possible to become a master in guitar without a music background. It is a myth that you need to have a music background to become a master in guitar. If you have a dream of becoming a master in guitar, then you need to learn the basics of guitar first"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 35,
+        "query": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\"",
+        "answer": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\" Discuss why you disagree with this statement.\nI agree with this statement in the sense that the writer is correct in the sense that technology is not everything. However, the writer is also incorrect because technology is not everything because technology is not everything. The reason why the writer is wrong is because the writer is incorrect in the sense that technology is not everything because technology is not everything. The reason why the writer is wrong is because the writer is incorrect in the sense that technology is not everything because technology is not"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 36,
+        "query": "Can you make ASCII art? If so, can you show me a house?",
+        "answer": "Can you make ASCII art? If so, can you show me a house?"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 37,
+        "query": "what should i call you?",
+        "answer": "what should i call you? - [email protected] - I want to know what you want.\nwhat should i call you?\nwhat should i call you? - [email protected] - I want to know what you want.\ni want to know what you want.\ni want to know what you want. - [email protected] - I want to know what you want.\ni want to know what you want. - [email protected] - I want to know what you want.\ni want to know what you want."
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 38,
+        "query": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper",
+        "answer": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper\ncayenne pepper\njalapeño\ncinnamon\ncumin\nchicken stock\nturkey\ncarrots\nlettuce\ngarlic\nparsley\ncelery\nchicken\ncelery\nspinach\nlettuce\ntomatoes\nchicken stock\ngarlic\nonions\npeas\ncelery\nspinach\ncumin\nchili\nancho pepper\ncayenne pepper\njalapeño\ncinnamon\ncorn\nsweet potatoes\ncar"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 39,
+        "query": "can you cook an egg only using durect sunlight in any place of our solar system ?",
+        "answer": "can you cook an egg only using durect sunlight in any place of our solar system? and how many hours it needs?\nYes, it can be done. It's called \"egg incubation.\" There are several websites that describe how to do this, with instructions, diagrams, and pictures. If you have a sunny location in your home or garden, you could do it. I would suggest you use a small, hard-boiled egg for a first experiment, so you won't be too disappointed if you fail to get the egg to hatch in the time you'd like. I've"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 40,
+        "query": "How can I use software defined radio to detect and locate a drone flying over my property?",
+        "answer": "How can I use software defined radio to detect and locate a drone flying over my property? [closed]\nI have a property that is 5 acres. I'm considering installing a radar system to detect and locate flying drones. The system will be set up such that it will be hidden from the view of the public and will be located in the property. Is there a way to do this using software defined radio?\nclosed as not a real question by Nick Cox, Peter Flach, Scerd Erikkson, mdp, gman May 13 '16 at 17:"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 41,
+        "query": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction?",
+        "answer": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction? How does this relate to the just war theory and the Christian view of the sanctity of life, and to the Jewish view of the sanctity of life, and to the Muslim view of the sanctity of life, and to the Buddhist view of the sanctity of life?\nWhen we talk about the Trolley Problem, we are talking about an extremely difficult and complex moral issue, which has been a major topic of debate and controversy in the world of philosophy for decades. The Trolley Problem,"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 42,
+        "query": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be?",
+        "answer": "Famously, some spy-satellites from the KeyHole series developed and operated by the US National Reconnaissance Office, where similar in capabilities to the Hubble Space Telescope, but then pointed at the earth rather than out into the universe. What can you tell me about these satellites? What era were they developed? Are they still active, and what are their approximate capabilities thought to be? Is there any chance that some of the original data they collected might be declassified?\nThe first Keyhole satellite, KH-1, was launched on 21 August 1966, and was followed by KH-2 in 1967. The KH-3 was launched in 1968 and the KH-4 in 1969. The KH-5 was the first satellite to be launched in 1976, and the KH-6 in 1977. The KH-7 was"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 43,
+        "query": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?",
+        "answer": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x? How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?\nHow can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 44,
+        "query": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth?",
+        "answer": "How far away is Saggitarius A*, the black hole in the center of the milky way galaxy, from Earth and can you please provide that distance in light years and parsecs? Can you please also compare that distance to the distance of the center of the Andromeda galaxy from Earth? I know that the distance of Saggitarius A* is 26,000 light years, but I would like to compare that to the distance of the center of the Andromeda galaxy from Earth which is 2,000,000 light years. Can you please tell me the distance of Saggitarius A* from Earth in light years and parsecs. Can you please also tell me the distance of the center of the Andromeda galaxy from Earth in light years and parsecs. Thank"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 45,
+        "query": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and",
+        "answer": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and Rehabilitation.\nI have completed the company description, but I need to add a logo to it. I need it to be a logo for the company, which is a horse riding therapy company, that provides lessons and rehabilitation.\nThe company is called Hippoplaisir. It is a company based in Belgium, and the logo should be an illustration of a horse with a rainbow in the background, with the text \"Hippoplaisir\" written underneath. The color scheme should be blue and yellow,"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 46,
+        "query": "Hi open assistant, can you tell me what presidents day is?",
+        "answer": "Hi open assistant, can you tell me what presidents day is? What is the day of the week and the date of the week? Is it a public holiday? What is the date of the holiday? What are the bank holidays for the next 30 days?"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 47,
+        "query": "How do I build a PC?",
+        "answer": "How do I build a PC? How do I build a PC? How do I build a PC? How do I build a PC? How do I build a PC?\nHow do I build a PC? How do I build a PC? How do I build a PC? How do I build a PC? How do I build a PC?\nHow do I build a PC? How do I build a PC? How do I build a PC? How do I build a PC? How do I build a PC?\nHow do"
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 48,
+        "query": "How do I normalize a vector?",
+        "answer": "How do I normalize a vector? [closed]\nI have a vector that is given to me. It is of the form: (1, 2, 3, 4, 5) How do I normalize it so that the maximum is 1 and the minimum is 0? I have tried multiplying it by 1/5, but it doesn't seem to work. The maximum value is still 5 and the minimum is 0. I need to have the maximum be 1 and the minimum be "
+    },
+    {
+        "model": "LLaMA3.2-3B_Prune-22th-Layer",
+        "query_id": 49,
+        "query": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust",
+        "answer": "Rewrite this song to be about Programing\n[Verse 1]\nSteve walks warily down the street\nWith the brim pulled way down low\nAin't no sound but the sound of his feet\nMachine guns ready to go\nAre you ready? Hey, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you too\nAnother one bites the dust\n\n[Verse 2]\nHow do you think I'm going to get along\nWithout you, when you're gone\nYou took me for everything that I had\nAnd kicked me out on my own\nAre you happy, are you satisfied?\nHow long can you stand the heat?\nOut of the doorway the bullets rip\nTo the sound of the beat\nLook out\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust\nHey, I'm gonna get you, too\nAnother one bites the dust\nYou might also like\nDon’t Stop Me Now\nQueen\nFlowers\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, take it\nBite the dust, hey\nAnother one bites the dust\nAnother one bites the dust, ow\nAnother one bites the dust, hey hey\nAnother one bites the dust, hey-eh-eh\nOoh\n\n[Verse 3]\nThere are plenty of ways you can hurt a man\nAnd bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad\nAnd leave him when he's down, yeah\nBut I'm ready, yes I'm ready for you\nI'm standing on my own two feet\nOut of the doorway the bullets rip\nRepeating the sound of the beat\nOh yeah\n\n[Chorus]\nAnother one bites the dust\nAnother one bites the dust\nAnd another one gone, and another one gone\nAnother one bites the dust, yeah\nHey, I'm gonna get you, too\nAnother one bites the dust\n\n[Verse 4]\nYou were just a flash of light in my eyes\nAin't nobody gonna take my pride\nI'll tell you one thing, I'm gonna get it right\nAnd I'm gonna be the one on top, yeah\nAre you ready, are you ready for this?\nAre you hanging on the edge of your seat?\nOut of the doorway the bullets rip\nTo the sound of the beat, yeah\nAre you ready, are you ready for this?\nAre"
+    }
+]
