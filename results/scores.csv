@@ -1,0 +1,2 @@
+file,model_in_file,query_id,chunk_id,score
+LLaMA3.2-1B_Baseline.json,LLaMA3.2-1B_Baseline,0,0,0.5
