@@ -1,7 +1,7 @@
 # Demystifying-Politeness-Layers
 
 This repository accompanies the report **Investigating the Politeness
-Layers in Large Language Models** for the course **Understanding LLMs** in 2025 summer semester.\
+Layers in Large Language Models** for the course **Understanding LLMs** in 2025 summer semester, University of Tuebingen.\
 We study whether *politeness* in large language models (LLMs) is
 localized in specific layers and how those layers contribute to polite
 behaviors.
