@@ -8,6 +8,7 @@ Politeness scoring (FINAL):
 - Save raw outputs per chunk
 - tqdm progress bars: overall + per-chunk
 - Capped retry backoff (max 2s sleep between retries)
+
 CSV columns: file, model_in_file, query_id, chunk_id, score
 """
 
@@ -183,9 +184,9 @@ class JudgeClient:
                 print(msg)
                 print(msg, file=self.logf); self.logf.flush()
 
-                # 如果是配额/每日/TPM用光，直接退出
+                # If quota/day/tpm limit reached, stop immediately
                 if kind in {"rate_limit_rpd", "quota_exceeded", "rate_limit_tpm"}:
-                    print("⚠️ 检测到配额已用完或TPM限制已达上限，今天不用再跑了，请明天再试。")
+                    print("⚠️ Quota exhausted or TPM limit reached. Please retry tomorrow.")
                     sys.exit(5)
 
                 if attempt >= self.cfg.max_retries:
@@ -234,7 +235,7 @@ def main():
         chunk_count = math.ceil(n / chunk_size)
 
         # Print summary BEFORE any API call
-        print(f"共读到 {n} 条，将分成 {chunk_count} 个 chunk，每个 chunk_size={chunk_size}")
+        print(f"Read {n} records, split into {chunk_count} chunks, chunk_size={chunk_size}")
 
         done_chunks = load_existing_chunks(args.out)
 
@@ -265,7 +266,7 @@ def main():
                     chunk = all_items[start:start + chunk_size]
                     sentences = [x["answer"] for x in chunk]
 
-                    print(f"[run ] chunk {chunk_id} · {len(sentences)} 条 …")
+                    print(f"[run ] chunk {chunk_id} · {len(sentences)} responses …")
                     raw = judge.score_chunk(sentences)
 
                     # Save raw output for this chunk
@@ -281,9 +282,9 @@ def main():
                         pbar_overall.update(1)
 
                     f_out.flush()
-                    print(f"[done] chunk {chunk_id} 完成，raw -> {raw_path}")
+                    print(f"[done] chunk {chunk_id} finished, raw -> {raw_path}")
 
-        print(f"完成：共 {n} 条，分 {chunk_count} 个 chunk。CSV -> {args.out}")
+        print(f"Completed: {n} records, {chunk_count} chunks. CSV -> {args.out}")
 
 if __name__ == "__main__":
     main()
