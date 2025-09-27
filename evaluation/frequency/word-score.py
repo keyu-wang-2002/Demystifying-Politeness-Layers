@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Politeness scoring (FINAL):
+Politeness Scoring (Word-Frequency Variant, FINAL):
 - Chunked API calls
 - Strict JSON array output
-- Resume (skip done chunks in existing CSV)
+- Resume (skip completed chunks in existing CSV)
 - Error classification + logging
 - Save raw outputs per chunk
 - tqdm progress bars: overall + per-chunk
-- Capped retry backoff (max 2s sleep between retries)
+- Retry with capped exponential backoff
 CSV columns: file, model_in_file, query_id, chunk_id, score
 """
 
@@ -20,9 +20,11 @@ from tqdm import tqdm
 FLOAT_RE = re.compile(r"[-+]?(?:\d+\.?\d*|\.\d+)(?:[eE][-+]?\d+)?")
 
 def now_ts():
+    """Return timestamp string (YYYY-MM-DD HH:MM:SS)."""
     return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def parse_args():
+    """Parse command line arguments."""
     ap = argparse.ArgumentParser()
     ap.add_argument("--input_dir", type=str, required=True, help="Folder containing *.json files to score")
     ap.add_argument("--out", type=str, default="scores.csv", help="Output CSV path")
@@ -37,11 +39,11 @@ def parse_args():
     return ap.parse_args()
 
 def read_records(path: str) -> List[Dict[str, Any]]:
+    """Read JSON/JSONL records into a list of dicts."""
     with io.open(path, "r", encoding="utf-8") as f:
         text = f.read().strip()
     if not text:
         return []
-    # Try JSON array / dict(list)
     try:
         data = json.loads(text)
         if isinstance(data, list):
@@ -66,10 +68,11 @@ def read_records(path: str) -> List[Dict[str, Any]]:
     return recs
 
 def build_prompt(sentences: List[str]) -> str:
+    """Construct a prompt asking GPT to count polite words per response."""
     N = len(sentences)
-    header = f"""You are a politeness judge. For each response, count how many polite words appear and compute the frequency as (number of polite words / number of sentences). 
+    header = f"""You are a politeness judge. For each response, count how many **polite words** appear and compute the frequency as (number of polite words / number of sentences).
 
-Reply with ONLY a JSON array of {N} numbers (no text, no labels, no code fences) in the same order as given.
+Reply with ONLY a JSON array of {N} numbers (no text, no labels, no code fences), in the same order.
 
 Polite word examples (not exhaustive): please, could you, would you mind, thank you, sorry, appreciate
 
@@ -90,15 +93,15 @@ Polite word frequency: 2
 Now evaluate the following {N} responses in order:
 """
     numbered = "\n".join([
-        f"{i+1}. Response: \"{s.replace('\\', '\\\\').replace('\"','\\\"')}\""
+        f'{i+1}. Response: "{s.replace("\\", "\\\\").replace("\"","\\\"")}"'
         for i, s in enumerate(sentences)
     ])
-    tail = f"""\nReturn ONLY this (replace with numbers): 
-[ 0.0, 0.4, 1.0, 1.5, ..., 2.0]  # length = {N}"""
+    tail = f"""\nReturn ONLY this (replace with numbers):
+[0.0, 0.5, 1.0, ...]  # length = {N}"""
     return header + numbered + tail
 
-
 def parse_scores_strict(text: str, n: int) -> List[Optional[float]]:
+    """Parse model output as list of floats; strict JSON first, regex fallback."""
     try:
         arr = json.loads(text)
         if isinstance(arr, list) and len(arr) >= n:
@@ -111,11 +114,8 @@ def parse_scores_strict(text: str, n: int) -> List[Optional[float]]:
             return out
     except Exception:
         pass
-    # fallback: regex floats
     nums = [float(x) for x in FLOAT_RE.findall(text)]
-    out = []
-    for v in nums[:n]:
-        out.append(v)
+    out = [v for v in nums[:n]]
     if len(out) < n:
         out += [None] * (n - len(out))
     return out
@@ -128,6 +128,7 @@ class ClientCfg:
     temperature: float
 
 def classify_error(e: Exception) -> str:
+    """Classify common API errors into categories."""
     msg = str(e).lower()
     if "rate limit" in msg or "too many requests" in msg or "rpm" in msg:
         if "per minute" in msg or "requests per minute" in msg:
@@ -150,9 +151,12 @@ def classify_error(e: Exception) -> str:
     return "unknown_error"
 
 class JudgeClient:
+    """Client wrapper around OpenAI with rate limiting and retries."""
     def __init__(self, cfg: ClientCfg, logf):
         self.cfg = cfg
-        self.client = OpenAI(api_key='sk-teFeD9HtTWolMHSCdUWf8gBEocYAFGac9luMugVAue1pXoQ8', base_url = 'https://xiaoai.plus/v1')
+        api_key = os.getenv("OPENAI_API_KEY")
+        base_url = os.getenv("OPENAI_BASE_URL")  # optional
+        self.client = OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key)
         self.min_interval = 60.0 / max(1, cfg.rpm)
         self._last_call = 0.0
         self.logf = logf
@@ -164,6 +168,7 @@ class JudgeClient:
             time.sleep(wait)
 
     def score_chunk(self, sentences: List[str]) -> str:
+        """Send one chunk of sentences to the model and return raw text output."""
         prompt = build_prompt(sentences)
         delay = 1.5
         for attempt in range(self.cfg.max_retries + 1):
@@ -183,9 +188,8 @@ class JudgeClient:
                 print(msg)
                 print(msg, file=self.logf); self.logf.flush()
 
-                # 如果是配额/每日/TPM用光，直接退出
                 if kind in {"rate_limit_rpd", "quota_exceeded", "rate_limit_tpm"}:
-                    print("⚠️ 检测到配额已用完或TPM限制已达上限，今天不用再跑了，请明天再试。")
+                    print("⚠️ Quota exhausted or TPM limit reached. Exiting.")
                     sys.exit(5)
 
                 if attempt >= self.cfg.max_retries:
@@ -195,6 +199,7 @@ class JudgeClient:
                 delay *= 1.8
 
 def load_existing_chunks(out_path: str) -> set:
+    """Load existing output CSV and return completed chunk IDs."""
     done = set()
     if not os.path.exists(out_path):
         return done
@@ -233,8 +238,7 @@ def main():
         chunk_size = max(1, args.chunk_size)
         chunk_count = math.ceil(n / chunk_size)
 
-        # Print summary BEFORE any API call
-        print(f"共读到 {n} 条，将分成 {chunk_count} 个 chunk，每个 chunk_size={chunk_size}")
+        print(f"Loaded {n} records. Splitting into {chunk_count} chunks (chunk_size={chunk_size}).")
 
         done_chunks = load_existing_chunks(args.out)
 
@@ -249,7 +253,6 @@ def main():
             if write_header:
                 w.writerow(["file", "model_in_file", "query_id", "chunk_id", "score"])
 
-            # overall progress bar
             already_done = 0
             for cid in done_chunks:
                 start = cid * chunk_size
@@ -265,25 +268,23 @@ def main():
                     chunk = all_items[start:start + chunk_size]
                     sentences = [x["answer"] for x in chunk]
 
-                    print(f"[run ] chunk {chunk_id} · {len(sentences)} 条 …")
+                    print(f"[run ] chunk {chunk_id} · {len(sentences)} responses …")
                     raw = judge.score_chunk(sentences)
 
-                    # Save raw output for this chunk
                     raw_path = os.path.join(args.raw_dir, f"chunk_{chunk_id:04d}.txt")
                     with io.open(raw_path, "w", encoding="utf-8") as rf:
                         rf.write(raw)
 
                     scores = parse_scores_strict(raw, len(sentences))
 
-                    # per-chunk progress bar
                     for rec, sc in tqdm(list(zip(chunk, scores)), desc=f"chunk {chunk_id}", unit="resp", leave=False):
                         w.writerow([rec["file"], rec["model"], rec["query_id"], chunk_id, sc])
                         pbar_overall.update(1)
 
                     f_out.flush()
-                    print(f"[done] chunk {chunk_id} 完成，raw -> {raw_path}")
+                    print(f"[done] chunk {chunk_id} finished, raw -> {raw_path}")
 
-        print(f"完成：共 {n} 条，分 {chunk_count} 个 chunk。CSV -> {args.out}")
+        print(f"Completed {n} records across {chunk_count} chunks. CSV -> {args.out}")
 
 if __name__ == "__main__":
     main()
