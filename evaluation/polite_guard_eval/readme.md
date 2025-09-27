@@ -1,56 +1,48 @@
-# GPT-based Continuous Politeness Scoring
+# Polite-Guard Evaluation (HuggingFace)
 
-## 📌 Overview
+##  Overview
 
-This module evaluates responses using **GPT models** as judges.\
-Each response is assigned a **continuous politeness score in \[-1,
-1\]**:
-
--   `-1`: very impolite\
--   `0`: neutral / directive\
--   `+1`: very polite
-
-This captures **subtle tone differences** that frequency-based methods
-may miss.
+This module evaluates politeness using **HuggingFace's Polite-Guard
+model**\
+(https://huggingface.co/Intel/polite-guard).\
+It provides **classification-based politeness judgments** and supports
+**layer-wise analysis**.
 
 ------------------------------------------------------------------------
 
-## 📂 Contents
+##  Contents
 
-    gpt_eval/
-    ├── politeness_score_batch_chunks_resume_logged.py   # Main scoring script
-    ├── scores-1B.csv                                    # Raw scores (1B model)
-    ├── scores-3B.csv                                    # Raw scores (3B model)
-    ├── scores-8B.csv                                    # Raw scores (8B model)
-    ├── Average_score_per_model-1B.csv                   # Aggregated averages
-    ├── Average_score_per_model-3B.csv
-    ├── Average_score_per_model-8B.csv
-    ├── raw_outputs/                                     # Raw model completions
+    polite_guard_eval/
+    ├── run_eval.py                 # Main script for running Polite-Guard evaluation
+    ├── scores-layer1.csv           # Example: layer-wise results
+    ├── scores-layer2.csv
+    ├── scores-final.csv            # Final aggregated results
     └── README.md
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+## How to Run
 
 ``` bash
-export OPENAI_API_KEY=sk-...
-python politeness_score_batch_chunks_resume_logged.py     --input_dir ../data/     --out scores-1B.csv     --model gpt-4o-mini     --chunk_size 100     --rpm 200     --raw_dir raw_outputs
+python run_eval.py     --input_dir ../data/     --out scores-final.csv     --layers all
 ```
 
-------------------------------------------------------------------------
-
-## 📑 Outputs
-
--   `scores-*.csv`: Raw scores per response
-    (`file, model_in_file, query_id, chunk_id, score`)\
--   `Average_score_per_model-*.csv`: Aggregated mean politeness scores\
--   `raw_outputs/`: Raw GPT completions (for auditing)
+Options: - `--layers`: choose which hidden layers to extract (e.g.,
+`1,5,10` or `all`)\
+- `--out`: CSV file to save results
 
 ------------------------------------------------------------------------
 
-## 📝 Notes
+##  Outputs
 
--   Script is resumable: already-completed chunks are skipped.\
--   Error handling: retry with exponential backoff, logs stored in
-    `scores.log`.\
--   Dataset is **not included** (instructions in top-level README).
+-   `scores-layer*.csv`: Layer-wise politeness scores per response\
+-   `scores-final.csv`: Final aggregated politeness scores
+
+------------------------------------------------------------------------
+
+##  Notes
+
+-   This evaluation **does not require an API key**, only HuggingFace
+    models.\
+-   Results are comparable to GPT-based and frequency-based scoring.\
+-   Useful for **probing intermediate representations** of politeness.
