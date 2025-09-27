@@ -1,6 +1,6 @@
-# 📘 Politeness Evaluation Repository
+#  Politeness Evaluation Repository
 
-## 📌 Overview
+##  Overview
 
 This repository contains code and results for the **Politeness
 Evaluation Study**.\
@@ -24,7 +24,7 @@ We implement and compare **three complementary evaluation approaches**:
 
 ------------------------------------------------------------------------
 
-## 📂 Repository Structure
+##  Repository Structure
 
     repo_root/
     │
@@ -57,7 +57,7 @@ We implement and compare **three complementary evaluation approaches**:
 
 ------------------------------------------------------------------------
 
-## ▶️ Quick Start
+##  Quick Start
 
 ### 1. Install dependencies
 
@@ -103,7 +103,7 @@ python evaluation/polite_guard_eval/run_eval.py     --input_dir data/     --out 
 
 ------------------------------------------------------------------------
 
-## 📑 Outputs
+##  Outputs
 
 -   `scores-*.csv` → raw per-response politeness scores\
 -   `Average_score_*.csv` → aggregated mean politeness per model\
@@ -111,7 +111,7 @@ python evaluation/polite_guard_eval/run_eval.py     --input_dir data/     --out 
 
 ------------------------------------------------------------------------
 
-## 🏆 Alignment with Expectations & Grading
+## Alignment with Expectations & Grading
 
 -   **Complete materials**: Scripts, results, documentation provided.\
 -   **Well-documented**: Top-level overview + per-folder READMEs.\
@@ -125,7 +125,7 @@ python evaluation/polite_guard_eval/run_eval.py     --input_dir data/     --out 
 
 ------------------------------------------------------------------------
 
-## ✨ Notes
+## Notes
 
 -   Each evaluation method is modular and can be extended with new
     datasets or models.\
