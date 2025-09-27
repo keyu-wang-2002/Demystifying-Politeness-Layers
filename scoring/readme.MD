@@ -1,6 +1,6 @@
 # Politeness Scoring Repository
 
-## 📌 Overview
+##  Overview
 
 This repository contains code and results for the **Politeness Scoring
 Project**, where multiple large language models (LLMs) are evaluated on
@@ -12,7 +12,7 @@ aggregated CSVs, and documentation.
 
 ------------------------------------------------------------------------
 
-## 📂 Repository Structure
+## Repository Structure
 
     ├── politeness_score_batch_chunks_resume_logged.py   # Main evaluation script
     ├── requirements.txt                                 # Dependencies (to be added)
@@ -27,7 +27,7 @@ aggregated CSVs, and documentation.
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Install requirements
 
@@ -68,7 +68,7 @@ python politeness_score_batch_chunks_resume_logged.py     --input_dir data/     
 
 ------------------------------------------------------------------------
 
-## 📑 File Descriptions
+##  File Descriptions
 
 -   **`politeness_score_batch_chunks_resume_logged.py`**\
     Main script for running politeness scoring. Supports resuming, error
@@ -89,7 +89,7 @@ python politeness_score_batch_chunks_resume_logged.py     --input_dir data/     
 
 ------------------------------------------------------------------------
 
-## 📦 Requirements
+##  Requirements
 
 Add the following dependencies to `requirements.txt`:
 
@@ -102,7 +102,7 @@ numpy
 
 ------------------------------------------------------------------------
 
-## ✅ Reproducibility Notes
+##  Reproducibility Notes
 
 -   The script is **resumable**: it will skip already-processed chunks
     in the output CSV.\
@@ -113,7 +113,7 @@ numpy
 
 ------------------------------------------------------------------------
 
-## 🏆 Grading Alignment
+##  Grading Alignment
 
 -   **Materials complete**: Includes code, scripts, results, and
     documentation.\
@@ -126,7 +126,7 @@ numpy
 
 ------------------------------------------------------------------------
 
-## ✨ Extra Notes
+##  Extra Notes
 
 -   The repo is modular: other evaluation datasets can be plugged in.\
 -   Aggregated scores allow direct comparison across models (1B, 3B,
