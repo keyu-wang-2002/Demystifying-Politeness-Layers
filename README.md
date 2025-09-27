@@ -24,6 +24,8 @@ experiments across three granularities:
 -   **Word-level politeness** (frequency of explicit polite markers)
 
 ![para-level](figures/para-level.jpg)
+![sent-level](figures/sent-level.jpg)
+![word-level](figures/word-level.jpg)
 
 Our findings show:
 1. Paragraph-level politeness increases with model size, while explicit
