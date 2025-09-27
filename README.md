@@ -31,8 +31,7 @@ and deep layers.
 3. First and final layers mainly control fluency, indirectly influencing
 politeness.
 
-We release code and results to enable **reproducibility, extension, and
-teaching use**.
+We release code and results to enable reproducibility.
 
 ------------------------------------------------------------------------
 
