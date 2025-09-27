@@ -42,6 +42,11 @@ We release code and results to enable reproducibility.
     ├── data/                # Input datasets (JSON format; not included in repo)
     │   └── text_random_50.json
     │
+    ├── figures/             # Figures in the report
+    |   ├── para-level.jpg
+    |   ├── sent-level.jpg
+    |   └── word-level.jpg
+    |
     ├── results/             # Results and analysis
     │   ├── evaluation/      # Evaluation scripts & scores (gpt_eval, frequency, polite_guard_eval)
     │   ├── model_output/    # Raw model generations (baseline + pruned layers)
