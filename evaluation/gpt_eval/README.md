@@ -1,6 +1,6 @@
 # GPT-based Continuous Politeness Scoring
 
-## 📌 Overview
+##  Overview
 
 This module evaluates responses using **GPT models** as judges.\
 Each response is assigned a **continuous politeness score in \[-1,
@@ -15,7 +15,7 @@ may miss.
 
 ------------------------------------------------------------------------
 
-## 📂 Contents
+##  Contents
 
     gpt_eval/
     ├── politeness_score_batch_chunks_resume_logged.py   # Main scoring script
@@ -30,7 +30,7 @@ may miss.
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+##  How to Run
 
 ``` bash
 export OPENAI_API_KEY=sk-...
@@ -39,7 +39,7 @@ python politeness_score_batch_chunks_resume_logged.py     --input_dir ../data/  
 
 ------------------------------------------------------------------------
 
-## 📑 Outputs
+##  Outputs
 
 -   `scores-*.csv`: Raw scores per response
     (`file, model_in_file, query_id, chunk_id, score`)\
@@ -48,7 +48,7 @@ python politeness_score_batch_chunks_resume_logged.py     --input_dir ../data/  
 
 ------------------------------------------------------------------------
 
-## 📝 Notes
+##  Notes
 
 -   Script is resumable: already-completed chunks are skipped.\
 -   Error handling: retry with exponential backoff, logs stored in
