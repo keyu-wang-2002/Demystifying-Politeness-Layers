@@ -1,11 +1,15 @@
 # Demystifying-Politeness-Layers
 
-This repository accompanies the paper **"Investigating the Politeness
-Layers in Large Language Models" **.\
+This repository accompanies the report **Investigating the Politeness
+Layers in Large Language Models** for the course **Understanding LLMs** in 2025 summer semester.\
 We study whether *politeness* in large language models (LLMs) is
 localized in specific layers and how those layers contribute to polite
 behaviors.
 
+## Project Member
+- Keyu Wang
+- Xinrui Qian
+- Nongying Li
 ------------------------------------------------------------------------
 
 ##  Overview
