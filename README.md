@@ -15,19 +15,19 @@ behaviors.
 ##  Overview
 
 Politeness is central to aligning LLMs with human values, yet its
-internal mechanisms remain poorly understood.\
+internal mechanisms remain poorly understood.
 We investigate *politeness layers* through **layer-wise ablation**
 experiments across three granularities:
 
--   **Paragraph-level politeness** (holistic judgment of discourse)\
--   **Sentence-level politeness** (frequency of polite sentences)\
+-   **Paragraph-level politeness** (holistic judgment of discourse)
+-   **Sentence-level politeness** (frequency of polite sentences)
 -   **Word-level politeness** (frequency of explicit polite markers)
 
-Our findings show:\
+Our findings show:
 1. Paragraph-level politeness increases with model size, while explicit
-polite markers do not.\
+polite markers do not.
 2. Politeness-relevant signals are distributed across shallow, middle,
-and deep layers.\
+and deep layers.
 3. First and final layers mainly control fluency, indirectly influencing
 politeness.
 
