@@ -1,6 +1,6 @@
 # Frequency-based Politeness Scoring
 
-## 📌 Overview
+##  Overview
 
 This folder contains code and results for **frequency-based politeness
 scoring**.\
@@ -13,7 +13,7 @@ returned with a **numeric frequency value**.
 
 ------------------------------------------------------------------------
 
-## 📂 Contents
+##  Contents
 
     ├── sentence-score.py                  # Script for sentence-level frequency scoring
     ├── word-score.py                      # Script for word-level frequency scoring
@@ -34,7 +34,7 @@ returned with a **numeric frequency value**.
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
@@ -74,7 +74,7 @@ python gpt_politeword_freq.py     --input_dir ../data/     --out scores-1B-sente
 
 ------------------------------------------------------------------------
 
-## 📦 Notes
+##  Notes
 
 -   The script is **resumable** and logs progress/errors in
     `scores.log`.\
@@ -87,7 +87,7 @@ python gpt_politeword_freq.py     --input_dir ../data/     --out scores-1B-sente
 
 ------------------------------------------------------------------------
 
-## 🏆 Alignment with Expectations & Grading
+##  Alignment with Expectations & Grading
 
 -   **Materials complete**: includes scripts, results, and
     documentation.\
