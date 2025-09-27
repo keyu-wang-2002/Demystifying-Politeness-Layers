@@ -52,8 +52,6 @@ teaching use**.
     ├── requirements.txt     # Dependencies
     └── .DS_Store
 
-Each subfolder (esp. `evaluation/`) has its own README with detailed
-instructions.
 
 ------------------------------------------------------------------------
 
