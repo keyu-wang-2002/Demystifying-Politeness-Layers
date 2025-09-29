@@ -14,14 +14,8 @@ behaviors.
 
 ##  Overview
 
-Politeness is central to aligning LLMs with human values, yet its
-internal mechanisms remain poorly understood.
 We investigate *politeness layers* through **layer-wise ablation**
-experiments across three granularities:
-
--   **Paragraph-level politeness** (holistic judgment of discourse)
--   **Sentence-level politeness** (frequency of polite sentences)
--   **Word-level politeness** (frequency of explicit polite markers)
+experiments.
 
 ![para-level](figures/para-level.jpg)
 ![sent-level](figures/sent-level.jpg)
