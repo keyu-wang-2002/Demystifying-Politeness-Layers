@@ -62,7 +62,8 @@ We release code and results to enable reproducibility.
     │
     ├── README.md            # This file
     ├── requirements.txt     # Dependencies
-    └── .DS_Store
+    ├── .DS_Store
+    └── report.pdf
 
 
 ------------------------------------------------------------------------
